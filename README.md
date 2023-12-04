@@ -22,9 +22,8 @@ Within the `data/` directory, you will find several subdirectories. These are de
 ## Figures
 The `figs/` directory contains additional figures that were too large to include in the paper. They are identified by source and target language. The diagonal entries show stacked histograms of segment scores across the challenge set (cool colours/bottom) and submitted WMT systems (warm colours/top). The off-diagonal entries are scatterplots where each point is a single segment positioned according to the score assigned to it by row and column metrics; each point is coloured according to the MT system that produced it. Where available, we include MQM scores and restrict the figures to the subset of data that received such annotations.
 
-
 ## Licence
-The contents of this repository are licenced under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The contents of this repository are released under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
 
 ## Citing this work
 If you choose to use this data, please cite:
