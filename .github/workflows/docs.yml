@@ -1,0 +1,42 @@
+# You need to enable github to host your pages.
+# github.com > Settings > Pages > Build and deployment:
+# > Source > Deploy from a branches
+# > Branch > gh-pages / `/root`
+name: Deploy docs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.md"
+      - "mkdocs.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  docs:
+    # Create latest docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup doc deploy
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: site
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install -r docs/requirements.txt
+      - run: mkdocs gh-deploy --force

@@ -1,0 +1,62 @@
+# [mkdocs](https://www.mkdocs.org/)
+# pip install --user -r docs/requirements.txt
+# mkdocs build
+# mkdocs gh-deploy
+# mkdocs serve
+site_name: Figures for MSLC — Figures pour MSLC
+site_url: https://nrc-cnrc.github.io/MSLC
+site_description: Data and figures for MSLC — Données et figures pour MSLC
+repo_name: NRC-CNRC / MSLC
+repo_url: https://github.com/nrc-cnrc/MSLC
+copyright: CC-BY-4.0 license
+theme:
+  name: material
+  locale: en
+  favicon: favicon-32x32.png
+  palette:
+    # Palette toggle for dark mode
+    - primary: blue
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - accent: light blue
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  features:
+    - content.code.copy
+    - content.code.select
+    - announce.dismiss
+  highlightjs: true
+  hljs_languages:
+    - bash
+    - go
+    - python
+    - rust
+    - yaml
+  shortcuts:
+    help: 191 # ?
+    next: 78 # n
+    previous: 80 # p
+    search: 83 # s
+plugins:
+  - search
+  - macros
+extra:
+  homepage: https://github.com/nrc-cnrc/MSLC
+  version:
+    provider: mike
+    default: stable
+markdown_extensions:
+  - admonition
+  #  - pymdownx.details
+  #  - pymdownx.superfences
+  - toc:
+      permalink: true
+nav:
+  - Home: README.md
+  - Graphs: 2024/interactive/charts.html
