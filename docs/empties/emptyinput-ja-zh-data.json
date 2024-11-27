@@ -1,0 +1,3002 @@
+[
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.05381704866886139",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.01509074866771698",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.04511405527591705",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.15644584596157074",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.22622112929821014",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.05180998146533966",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.08238475024700165",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.022994115948677063",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.07691551744937897",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.10857214033603668",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.02445177733898163",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.037652499973773956",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.028246715664863586",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.031160056591033936",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.0455765426158905",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.1745402216911316",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.08297373354434967",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.07844613492488861",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.10569790005683899",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.04401828348636627",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.44686517119407654",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.5010015964508057",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.49409857392311096",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.45393624901771545",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.4535049498081207",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.5372365713119507",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.48709580302238464",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.5201137661933899",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.5134180188179016",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.4096522033214569",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.6966820359230042",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.6839306354522705",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.6521212458610535",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.6695263385772705",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.7536219358444214",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.7173877954483032",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.7405908703804016",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.7423653602600098",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.7231171727180481",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.7462786436080933",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.3378186523914337",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.3793112635612488",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.5401456356048584",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.6820401549339294",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.7683426737785339",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.7243460416793823",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.30888810753822327",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.47005337476730347",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.7280093431472778",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.8001766204833984",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.4264051020145416",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.676573634147644",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.602899432182312",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.7958544492721558",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.49052080512046814",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.7699416875839233",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.7963343262672424",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.7298016548156738",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.8129435181617737",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.6865401268005371",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "-7.306787660039032",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "-6.085068593312036",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "-6.0833813229158",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "-7.005058927689673",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "-6.344349655067614",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "-7.167195638",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "-7.74420166",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "-6.562304687",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "-6.4030761720000005",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "-6.396240234166666",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "-10.1875",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "-8.39453125",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "-8.3671875",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "-7.775390625",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "-6.533040364666666",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "-10.5",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "-7.9375",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "-8.453125",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "-7.59375",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "-7.90625",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "-7.18133200378387",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "-6.2830915082268195",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "-6.089671548166667",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "-7.051380662980689",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "-6.384100087834791",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "-6.664408365875",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "-7.595703125",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "-6.929785156",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "-6.890234375",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "-6.532552083333333",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "-10.46875",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "-8.588541666666666",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "-7.875",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "-7.515625",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "-6.736083984333334",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "-9.8125",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "-7.53125",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "-7.8125",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "-7.46875",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "-7.1015625",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.01794258877635002",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.06852363795042038",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.06813052296638489",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "-0.007763426750898361",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.042112093418836594",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "-0.02594049647450447",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.005311216227710247",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.030462155118584633",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.07106440514326096",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.0009266111301258206",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.06856152415275574",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.06537429243326187",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.08437452465295792",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.04283873364329338",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.08066118508577347",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.14063645899295807",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.1322159469127655",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.049288347363471985",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.13260148465633392",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.13416583836078644",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.026913883164525032",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.10278549045324326",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.10219575092196465",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "-0.011645168764516711",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.063168128952384",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "-0.0389107670634985",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.007966834818944335",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.045693266205489635",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.10659661889076233",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.0013899416662752628",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.10284235328435898",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.09806143864989281",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.12656185403466225",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.06425811722874641",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.12099179998040199",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.2109547108411789",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.19832398742437363",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.07393263839185238",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.19890224933624268",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.20124875754117966",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.7769251465797424",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.7753399610519409",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.731166660785675",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.6397413015365601",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.7545696496963501",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.730137288570404",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.8583831191062927",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.903374969959259",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.8460385203361511",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.7231811881065369",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.9089241623878479",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.9062404036521912",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.8480458855628967",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.8795487284660339",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.8660376667976379",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.9830793738365173",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.9438192248344421",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.8951836228370667",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.9576547741889954",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.9418009519577026",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.5937502297852231",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.786241580954706",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "1.010703368104122",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.8109862188232155",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "1.1225176576343532",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "1.0088674257774",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.9293478385504528",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "1.0369704247911862",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "1.0836111663043289",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "1.1254628878076127",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.9704090517382332",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "1.0476738802346266",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.9785618029328212",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "1.1009976225531075",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "1.070972516456823",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "1.0883425537324518",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "1.1146694372179715",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "1.1002047857487929",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "1.1568197517115533",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "1.1158702478938962",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "-16.35407257080078",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "-12.239309310913086",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "-5.74608039855957",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "-16.081132888793945",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "-4.275928020477295",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "-5.784265518188477",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "-2.984027862548828",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "-7.35505485534668",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "-0.8805375099182129",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "-3.4237167835235596",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "-0.24035093188285828",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "-0.3993954360485077",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "-0.24736766517162323",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "-0.22759592533111572",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "-0.4426577091217041",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.5917708873748779",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "-1.7424652576446533",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "-0.92037034034729",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "-0.21401375532150269",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "-0.39005911350250244",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "-16.305444717407227",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "-12.249165534973145",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "-5.740217208862305",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "-16.039052963256836",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "-4.26974630355835",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "-5.78294563293457",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "-2.9834306240081787",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "-7.346474647521973",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "-0.8813062906265259",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "-3.4166507720947266",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "-0.24116402864456177",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "-0.39831534028053284",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "-0.24900203943252563",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "-0.2273063212633133",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "-0.4439382255077362",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.5935066938400269",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "-1.7351552248001099",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "-0.9004800319671631",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "-0.2092316895723343",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "-0.3879919648170471",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.07727383194153321",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.01227064261974498",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.025187555469637704",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.025989272943530938",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.15664030725423084",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.9371638657210725",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.7052909759459283",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.8296070192285028",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.9775963418737035",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.9470961104352279",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.555903354267855",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.42235784511241936",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.6185926181849096",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.9863202829228862",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.573373692069907",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.7098228987525131",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.5069898782010496",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.5743281189150338",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.9871888918431555",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.9195341695437526",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "0.07442679426820453",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "0.05634739558617871",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "0.08304738823388806",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "0.08054477327540563",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "0.1806095321790434",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "0.9124267784482257",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "0.6738352721369921",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "0.8114217979976787",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "0.9444532903814757",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "0.9363175481797333",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "0.5991469233720595",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "0.42986027640138513",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "0.5901736144451517",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "0.9649097375008203",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "0.5922032788521966",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "0.6461861400562654",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "0.5316138343051025",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "0.5991990118035057",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "0.9569635751592667",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "0.9107509279423184",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 21,
+    "score": "10.412773132324219",
+    "src": "",
+    "ref": "",
+    "hyp": "曼谷邻省的非法俱乐部489名青少年因酗酒滋事被收管 附近居民投诉",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 22,
+    "score": "15.748061180114746",
+    "src": "",
+    "ref": "",
+    "hyp": "1月7日，泰国警方突击搜查了位于曼谷北部巴吞他尼府空銮县的非法经营俱乐部“HEAVEN Rangsit”。收管了包括未成年在内的489人。该店经理因涉嫌允许青少年饮酒而被捕，但店主目前正在海外旅行，警方计划在他回国后将其逮捕审查。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 23,
+    "score": "16.116907119750977",
+    "src": "",
+    "ref": "",
+    "hyp": "内政部地方行政司司长安西特表示，该俱乐部可容纳约1000人，类似于一个体育馆的规模，在没有相应许可的情况下违法运营。据称，附近居民多次投诉这家俱乐部。",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 24,
+    "score": "12.961644172668457",
+    "src": "",
+    "ref": "",
+    "hyp": "能登半岛地震，造成石川县168人死亡 下落不明人数也大幅攀升 - BBC新闻",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 25,
+    "score": "18.8391056060791",
+    "src": "",
+    "ref": "",
+    "hyp": "因降雪和暴雨阻碍了受灾地区失踪人员的搜救工作",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 26,
+    "score": "25.48520278930664",
+    "src": "",
+    "ref": "",
+    "hyp": "吉卜力工作室",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 27,
+    "score": "22.93707275390625",
+    "src": "",
+    "ref": "",
+    "hyp": "龙珠Z",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 28,
+    "score": "26.48220443725586",
+    "src": "",
+    "ref": "",
+    "hyp": "足球小将",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 29,
+    "score": "29.71986961364746",
+    "src": "",
+    "ref": "",
+    "hyp": "绝对无敌",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 30,
+    "score": "26.295930862426758",
+    "src": "",
+    "ref": "",
+    "hyp": "魔神英雄传",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 31,
+    "score": "50.57642364501953",
+    "src": "",
+    "ref": "",
+    "hyp": "停",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 32,
+    "score": "23.491031646728516",
+    "src": "",
+    "ref": "",
+    "hyp": "毕业",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 33,
+    "score": "32.47102355957031",
+    "src": "",
+    "ref": "",
+    "hyp": "电脑",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 34,
+    "score": "47.755470275878906",
+    "src": "",
+    "ref": "",
+    "hyp": "登录",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 35,
+    "score": "34.26218795776367",
+    "src": "",
+    "ref": "",
+    "hyp": "讨论",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 36,
+    "score": "36.873443603515625",
+    "src": "",
+    "ref": "",
+    "hyp": "「",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 37,
+    "score": "38.36761474609375",
+    "src": "",
+    "ref": "",
+    "hyp": "」",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 38,
+    "score": "47.26374816894531",
+    "src": "",
+    "ref": "",
+    "hyp": "。",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 39,
+    "score": "35.2493782043457",
+    "src": "",
+    "ref": "",
+    "hyp": "！",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "ja-zh",
+    "segment_id": 40,
+    "score": "46.96311950683594",
+    "src": "",
+    "ref": "",
+    "hyp": "，",
+    "type": "empty|empty|punct"
+  }
+]

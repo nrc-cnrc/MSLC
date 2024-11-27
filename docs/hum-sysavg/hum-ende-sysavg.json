@@ -1,0 +1,4580 @@
+[
+  {
+    "metric": "BERTScore",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.5689,
+        "ci_low": 0.0087,
+        "ci_high": 0.0076
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.6730,
+        "ci_low": 0.0050,
+        "ci_high": 0.0047
+      },
+      {
+        "system_id": "C",
+        "score": 0.6824,
+        "ci_low": 0.0076,
+        "ci_high": 0.0076
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.6986,
+        "ci_low": 0.0068,
+        "ci_high": 0.0072
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.7009,
+        "ci_low": 0.0071,
+        "ci_high": 0.0079
+      },
+      {
+        "system_id": "F",
+        "score": 0.7185,
+        "ci_low": 0.0084,
+        "ci_high": 0.0088
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.7447,
+        "ci_low": 0.0084,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.7497,
+        "ci_low": 0.0090,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.7593,
+        "ci_low": 0.0103,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "J",
+        "score": 0.7446,
+        "ci_low": 0.0082,
+        "ci_high": 0.0078
+      },
+      {
+        "system_id": "K",
+        "score": 0.7807,
+        "ci_low": 0.0095,
+        "ci_high": 0.0100
+      },
+      {
+        "system_id": "L",
+        "score": 0.8200,
+        "ci_low": 0.0114,
+        "ci_high": 0.0111
+      },
+      {
+        "system_id": "M*",
+        "score": 0.8186,
+        "ci_low": 0.0110,
+        "ci_high": 0.0104
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.8383,
+        "ci_low": 0.0093,
+        "ci_high": 0.0090
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8361,
+        "ci_low": 0.0107,
+        "ci_high": 0.0103
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8364,
+        "ci_low": 0.0093,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8452,
+        "ci_low": 0.0094,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8437,
+        "ci_low": 0.0097,
+        "ci_high": 0.0099
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8479,
+        "ci_low": 0.0098,
+        "ci_high": 0.0102
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.8464,
+        "ci_low": 0.0093,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.8571,
+        "ci_low": 0.0093,
+        "ci_high": 0.0090
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8488,
+        "ci_low": 0.0095,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8579,
+        "ci_low": 0.0092,
+        "ci_high": 0.0088
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8508,
+        "ci_low": 0.0084,
+        "ci_high": 0.0077
+      },
+      {
+        "system_id": "refB",
+        "score": 0.8336,
+        "ci_low": 0.0104,
+        "ci_high": 0.0092
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.8566,
+        "ci_low": 0.0096,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8484,
+        "ci_low": 0.0100,
+        "ci_high": 0.0101
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.8507,
+        "ci_low": 0.0095,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.8577,
+        "ci_low": 0.0084,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8508,
+        "ci_low": 0.0086,
+        "ci_high": 0.0083
+      }
+    ]
+  },
+  {
+    "metric": "BLEU",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 1.4777,
+        "ci_low": 0.2197,
+        "ci_high": 0.2300
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 3.0420,
+        "ci_low": 0.3143,
+        "ci_high": 0.3431
+      },
+      {
+        "system_id": "C",
+        "score": 3.4492,
+        "ci_low": 0.4056,
+        "ci_high": 0.3962
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 4.2739,
+        "ci_low": 0.6088,
+        "ci_high": 0.7778
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 4.8602,
+        "ci_low": 0.7648,
+        "ci_high": 0.7800
+      },
+      {
+        "system_id": "F",
+        "score": 6.3829,
+        "ci_low": 0.9631,
+        "ci_high": 1.1058
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 7.1370,
+        "ci_low": 1.0931,
+        "ci_high": 1.2528
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 7.7457,
+        "ci_low": 0.9186,
+        "ci_high": 1.1268
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 8.5433,
+        "ci_low": 1.2253,
+        "ci_high": 1.2061
+      },
+      {
+        "system_id": "J",
+        "score": 8.0019,
+        "ci_low": 1.2340,
+        "ci_high": 1.3033
+      },
+      {
+        "system_id": "K",
+        "score": 12.1547,
+        "ci_low": 1.6954,
+        "ci_high": 1.7948
+      },
+      {
+        "system_id": "L",
+        "score": 18.2089,
+        "ci_low": 2.3146,
+        "ci_high": 2.3349
+      },
+      {
+        "system_id": "M*",
+        "score": 18.0312,
+        "ci_low": 2.5180,
+        "ci_high": 2.5697
+      },
+      {
+        "system_id": "IKUN",
+        "score": 23.4813,
+        "ci_low": 2.8734,
+        "ci_high": 2.7959
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 22.0650,
+        "ci_low": 2.5766,
+        "ci_high": 3.0379
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 22.4956,
+        "ci_low": 2.5763,
+        "ci_high": 2.7739
+      },
+      {
+        "system_id": "Aya23",
+        "score": 24.6149,
+        "ci_low": 3.0278,
+        "ci_high": 2.8340
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 25.3467,
+        "ci_low": 2.7103,
+        "ci_high": 3.3577
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 25.2680,
+        "ci_low": 2.9737,
+        "ci_high": 2.7545
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 25.4191,
+        "ci_low": 2.8206,
+        "ci_high": 2.7721
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 28.2979,
+        "ci_low": 3.2337,
+        "ci_high": 3.1215
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 26.1304,
+        "ci_low": 2.7679,
+        "ci_high": 2.9779
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 26.9448,
+        "ci_low": 2.7864,
+        "ci_high": 2.9211
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 24.9349,
+        "ci_low": 2.7472,
+        "ci_high": 2.6920
+      },
+      {
+        "system_id": "refB",
+        "score": 19.9813,
+        "ci_low": 2.4853,
+        "ci_high": 2.6732
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 27.8088,
+        "ci_low": 3.0700,
+        "ci_high": 3.0728
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 25.9984,
+        "ci_low": 2.9096,
+        "ci_high": 2.7569
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 26.0261,
+        "ci_low": 3.1099,
+        "ci_high": 2.9824
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 27.0945,
+        "ci_low": 2.9222,
+        "ci_high": 2.9820
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 25.9302,
+        "ci_low": 2.8183,
+        "ci_high": 3.0247
+      }
+    ]
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.1117,
+        "ci_low": 0.0128,
+        "ci_high": 0.0135
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.1570,
+        "ci_low": 0.0138,
+        "ci_high": 0.0140
+      },
+      {
+        "system_id": "C",
+        "score": 0.1801,
+        "ci_low": 0.0118,
+        "ci_high": 0.0135
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.1674,
+        "ci_low": 0.0103,
+        "ci_high": 0.0105
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.1922,
+        "ci_low": 0.0163,
+        "ci_high": 0.0179
+      },
+      {
+        "system_id": "F",
+        "score": 0.2200,
+        "ci_low": 0.0175,
+        "ci_high": 0.0199
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.2803,
+        "ci_low": 0.0241,
+        "ci_high": 0.0259
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.3067,
+        "ci_low": 0.0233,
+        "ci_high": 0.0233
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.3418,
+        "ci_low": 0.0283,
+        "ci_high": 0.0297
+      },
+      {
+        "system_id": "J",
+        "score": 0.2526,
+        "ci_low": 0.0191,
+        "ci_high": 0.0212
+      },
+      {
+        "system_id": "K",
+        "score": 0.3638,
+        "ci_low": 0.0241,
+        "ci_high": 0.0259
+      },
+      {
+        "system_id": "L",
+        "score": 0.5803,
+        "ci_low": 0.0306,
+        "ci_high": 0.0302
+      },
+      {
+        "system_id": "M*",
+        "score": 0.5586,
+        "ci_low": 0.0314,
+        "ci_high": 0.0313
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.7014,
+        "ci_low": 0.0193,
+        "ci_high": 0.0176
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.6972,
+        "ci_low": 0.0162,
+        "ci_high": 0.0166
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.7042,
+        "ci_low": 0.0155,
+        "ci_high": 0.0151
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.7159,
+        "ci_low": 0.0154,
+        "ci_high": 0.0147
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.7173,
+        "ci_low": 0.0168,
+        "ci_high": 0.0158
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.7435,
+        "ci_low": 0.0111,
+        "ci_high": 0.0113
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.7171,
+        "ci_low": 0.0163,
+        "ci_high": 0.0154
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.7104,
+        "ci_low": 0.0185,
+        "ci_high": 0.0164
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.7235,
+        "ci_low": 0.0153,
+        "ci_high": 0.0142
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.7388,
+        "ci_low": 0.0142,
+        "ci_high": 0.0143
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.7254,
+        "ci_low": 0.0126,
+        "ci_high": 0.0131
+      },
+      {
+        "system_id": "refB",
+        "score": 0.7316,
+        "ci_low": 0.0143,
+        "ci_high": 0.0156
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.7245,
+        "ci_low": 0.0167,
+        "ci_high": 0.0153
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.7339,
+        "ci_low": 0.0142,
+        "ci_high": 0.0132
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.7345,
+        "ci_low": 0.0152,
+        "ci_high": 0.0148
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.7381,
+        "ci_low": 0.0148,
+        "ci_high": 0.0147
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.7256,
+        "ci_low": 0.0171,
+        "ci_high": 0.0156
+      }
+    ]
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.2151,
+        "ci_low": 0.0078,
+        "ci_high": 0.0073
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.3245,
+        "ci_low": 0.0125,
+        "ci_high": 0.0131
+      },
+      {
+        "system_id": "C",
+        "score": 0.3217,
+        "ci_low": 0.0112,
+        "ci_high": 0.0120
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.3354,
+        "ci_low": 0.0096,
+        "ci_high": 0.0084
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.3690,
+        "ci_low": 0.0165,
+        "ci_high": 0.0168
+      },
+      {
+        "system_id": "F",
+        "score": 0.3639,
+        "ci_low": 0.0165,
+        "ci_high": 0.0164
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.4416,
+        "ci_low": 0.0200,
+        "ci_high": 0.0232
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.4758,
+        "ci_low": 0.0207,
+        "ci_high": 0.0209
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.5007,
+        "ci_low": 0.0237,
+        "ci_high": 0.0226
+      },
+      {
+        "system_id": "J",
+        "score": 0.3996,
+        "ci_low": 0.0169,
+        "ci_high": 0.0203
+      },
+      {
+        "system_id": "K",
+        "score": 0.5101,
+        "ci_low": 0.0244,
+        "ci_high": 0.0257
+      },
+      {
+        "system_id": "L",
+        "score": 0.7316,
+        "ci_low": 0.0252,
+        "ci_high": 0.0230
+      },
+      {
+        "system_id": "M*",
+        "score": 0.7211,
+        "ci_low": 0.0233,
+        "ci_high": 0.0258
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.8309,
+        "ci_low": 0.0139,
+        "ci_high": 0.0132
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8286,
+        "ci_low": 0.0117,
+        "ci_high": 0.0114
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8376,
+        "ci_low": 0.0101,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8459,
+        "ci_low": 0.0103,
+        "ci_high": 0.0095
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8483,
+        "ci_low": 0.0093,
+        "ci_high": 0.0084
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8623,
+        "ci_low": 0.0073,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.8483,
+        "ci_low": 0.0080,
+        "ci_high": 0.0083
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.8471,
+        "ci_low": 0.0092,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8480,
+        "ci_low": 0.0101,
+        "ci_high": 0.0104
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8558,
+        "ci_low": 0.0111,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8539,
+        "ci_low": 0.0074,
+        "ci_high": 0.0074
+      },
+      {
+        "system_id": "refB",
+        "score": 0.8430,
+        "ci_low": 0.0098,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.8525,
+        "ci_low": 0.0092,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8527,
+        "ci_low": 0.0098,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.8545,
+        "ci_low": 0.0096,
+        "ci_high": 0.0089
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.8553,
+        "ci_low": 0.0102,
+        "ci_high": 0.0097
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8525,
+        "ci_low": 0.0113,
+        "ci_high": 0.0097
+      }
+    ]
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.1515,
+        "ci_low": 0.0072,
+        "ci_high": 0.0074
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.2149,
+        "ci_low": 0.0083,
+        "ci_high": 0.0077
+      },
+      {
+        "system_id": "C",
+        "score": 0.2144,
+        "ci_low": 0.0088,
+        "ci_high": 0.0092
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.2452,
+        "ci_low": 0.0081,
+        "ci_high": 0.0082
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.2720,
+        "ci_low": 0.0163,
+        "ci_high": 0.0167
+      },
+      {
+        "system_id": "F",
+        "score": 0.2890,
+        "ci_low": 0.0162,
+        "ci_high": 0.0194
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.4015,
+        "ci_low": 0.0251,
+        "ci_high": 0.0273
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.4296,
+        "ci_low": 0.0238,
+        "ci_high": 0.0259
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.4678,
+        "ci_low": 0.0298,
+        "ci_high": 0.0291
+      },
+      {
+        "system_id": "J",
+        "score": 0.3487,
+        "ci_low": 0.0213,
+        "ci_high": 0.0226
+      },
+      {
+        "system_id": "K",
+        "score": 0.5093,
+        "ci_low": 0.0266,
+        "ci_high": 0.0268
+      },
+      {
+        "system_id": "L",
+        "score": 0.7379,
+        "ci_low": 0.0302,
+        "ci_high": 0.0264
+      },
+      {
+        "system_id": "M*",
+        "score": 0.7219,
+        "ci_low": 0.0348,
+        "ci_high": 0.0311
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.8381,
+        "ci_low": 0.0137,
+        "ci_high": 0.0110
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8396,
+        "ci_low": 0.0085,
+        "ci_high": 0.0082
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8528,
+        "ci_low": 0.0066,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8527,
+        "ci_low": 0.0070,
+        "ci_high": 0.0068
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8533,
+        "ci_low": 0.0079,
+        "ci_high": 0.0065
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8645,
+        "ci_low": 0.0048,
+        "ci_high": 0.0047
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.8556,
+        "ci_low": 0.0079,
+        "ci_high": 0.0072
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.8543,
+        "ci_low": 0.0078,
+        "ci_high": 0.0069
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8602,
+        "ci_low": 0.0064,
+        "ci_high": 0.0054
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8592,
+        "ci_low": 0.0058,
+        "ci_high": 0.0056
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8583,
+        "ci_low": 0.0063,
+        "ci_high": 0.0059
+      },
+      {
+        "system_id": "refB",
+        "score": 0.8447,
+        "ci_low": 0.0078,
+        "ci_high": 0.0075
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.8547,
+        "ci_low": 0.0098,
+        "ci_high": 0.0080
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8584,
+        "ci_low": 0.0078,
+        "ci_high": 0.0065
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.8494,
+        "ci_low": 0.0106,
+        "ci_high": 0.0087
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.8593,
+        "ci_low": 0.0067,
+        "ci_high": 0.0057
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8592,
+        "ci_low": 0.0071,
+        "ci_high": 0.0065
+      }
+    ]
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.0000,
+        "ci_low": 0.0000,
+        "ci_high": 0.0000
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.5556,
+        "ci_low": 0.4444,
+        "ci_high": 0.4444
+      },
+      {
+        "system_id": "C",
+        "score": 0.5556,
+        "ci_low": 0.4444,
+        "ci_high": 0.6667
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 2.7889,
+        "ci_low": 1.1778,
+        "ci_high": 1.3889
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 3.7556,
+        "ci_low": 1.2556,
+        "ci_high": 1.4889
+      },
+      {
+        "system_id": "F",
+        "score": 6.9222,
+        "ci_low": 1.8556,
+        "ci_high": 2.3556
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 15.2333,
+        "ci_low": 2.3556,
+        "ci_high": 2.8444
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 18.5889,
+        "ci_low": 2.6333,
+        "ci_high": 3.1333
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 22.1778,
+        "ci_low": 3.0111,
+        "ci_high": 3.0556
+      },
+      {
+        "system_id": "J",
+        "score": 11.5556,
+        "ci_low": 2.0556,
+        "ci_high": 2.0667
+      },
+      {
+        "system_id": "K",
+        "score": 26.7556,
+        "ci_low": 2.7222,
+        "ci_high": 2.6111
+      },
+      {
+        "system_id": "L",
+        "score": 57.9889,
+        "ci_low": 5.5000,
+        "ci_high": 4.9556
+      },
+      {
+        "system_id": "M*",
+        "score": 55.3000,
+        "ci_low": 6.0556,
+        "ci_high": 5.5000
+      },
+      {
+        "system_id": "IKUN",
+        "score": 90.4556,
+        "ci_low": 3.4111,
+        "ci_high": 3.2778
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 88.8667,
+        "ci_low": 3.3444,
+        "ci_high": 3.2889
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 96.2333,
+        "ci_low": 2.2889,
+        "ci_high": 1.9111
+      },
+      {
+        "system_id": "Aya23",
+        "score": 95.7111,
+        "ci_low": 1.9222,
+        "ci_high": 1.7667
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 98.2444,
+        "ci_low": 1.3000,
+        "ci_high": 1.0889
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 99.2556,
+        "ci_low": 0.5556,
+        "ci_high": 0.4444
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 98.7333,
+        "ci_low": 1.0778,
+        "ci_high": 0.7667
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 96.4222,
+        "ci_low": 1.7556,
+        "ci_high": 1.7222
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 98.5000,
+        "ci_low": 1.0000,
+        "ci_high": 0.8333
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 98.3667,
+        "ci_low": 1.1000,
+        "ci_high": 0.9444
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 99.2222,
+        "ci_low": 0.6667,
+        "ci_high": 0.5000
+      },
+      {
+        "system_id": "refB",
+        "score": 98.1222,
+        "ci_low": 1.4778,
+        "ci_high": 1.2111
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 96.9889,
+        "ci_low": 1.6000,
+        "ci_high": 1.4111
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 98.7333,
+        "ci_low": 1.2000,
+        "ci_high": 0.8778
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 98.4000,
+        "ci_low": 1.0222,
+        "ci_high": 0.8778
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 98.3111,
+        "ci_low": 0.9889,
+        "ci_high": 0.8444
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 99.7778,
+        "ci_low": 0.2778,
+        "ci_high": 0.2222
+      }
+    ]
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.2094,
+        "ci_low": 0.0160,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.4758,
+        "ci_low": 0.0248,
+        "ci_high": 0.0219
+      },
+      {
+        "system_id": "C",
+        "score": 0.5045,
+        "ci_low": 0.0234,
+        "ci_high": 0.0206
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.5630,
+        "ci_low": 0.0258,
+        "ci_high": 0.0249
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.5945,
+        "ci_low": 0.0231,
+        "ci_high": 0.0235
+      },
+      {
+        "system_id": "F",
+        "score": 0.6116,
+        "ci_low": 0.0256,
+        "ci_high": 0.0226
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.6660,
+        "ci_low": 0.0207,
+        "ci_high": 0.0188
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.6766,
+        "ci_low": 0.0246,
+        "ci_high": 0.0202
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.6934,
+        "ci_low": 0.0243,
+        "ci_high": 0.0227
+      },
+      {
+        "system_id": "J",
+        "score": 0.6807,
+        "ci_low": 0.0207,
+        "ci_high": 0.0168
+      },
+      {
+        "system_id": "K",
+        "score": 0.7444,
+        "ci_low": 0.0175,
+        "ci_high": 0.0158
+      },
+      {
+        "system_id": "L",
+        "score": 0.7832,
+        "ci_low": 0.0168,
+        "ci_high": 0.0159
+      },
+      {
+        "system_id": "M*",
+        "score": 0.7807,
+        "ci_low": 0.0171,
+        "ci_high": 0.0154
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.8034,
+        "ci_low": 0.0141,
+        "ci_high": 0.0128
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8005,
+        "ci_low": 0.0152,
+        "ci_high": 0.0139
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8047,
+        "ci_low": 0.0114,
+        "ci_high": 0.0112
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8097,
+        "ci_low": 0.0122,
+        "ci_high": 0.0110
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8113,
+        "ci_low": 0.0122,
+        "ci_high": 0.0126
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8109,
+        "ci_low": 0.0127,
+        "ci_high": 0.0121
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.8118,
+        "ci_low": 0.0119,
+        "ci_high": 0.0109
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.8220,
+        "ci_low": 0.0120,
+        "ci_high": 0.0109
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8155,
+        "ci_low": 0.0132,
+        "ci_high": 0.0112
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8214,
+        "ci_low": 0.0127,
+        "ci_high": 0.0113
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8127,
+        "ci_low": 0.0119,
+        "ci_high": 0.0111
+      },
+      {
+        "system_id": "refB",
+        "score": 0.7991,
+        "ci_low": 0.0131,
+        "ci_high": 0.0117
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.8185,
+        "ci_low": 0.0130,
+        "ci_high": 0.0133
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8133,
+        "ci_low": 0.0127,
+        "ci_high": 0.0123
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.8138,
+        "ci_low": 0.0128,
+        "ci_high": 0.0120
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.8205,
+        "ci_low": 0.0122,
+        "ci_high": 0.0108
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8175,
+        "ci_low": 0.0111,
+        "ci_high": 0.0107
+      }
+    ]
+  },
+  {
+    "metric": "MQM",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "M*",
+        "score": -11.5367,
+        "ci_low": 2.7000,
+        "ci_high": 2.6933
+      },
+      {
+        "system_id": "IKUN",
+        "score": -4.3456,
+        "ci_low": 1.9567,
+        "ci_high": 1.6211
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -3.3922,
+        "ci_low": 0.9344,
+        "ci_high": 1.0011
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -2.9111,
+        "ci_low": 1.2256,
+        "ci_high": 1.0356
+      },
+      {
+        "system_id": "Aya23",
+        "score": -2.6867,
+        "ci_low": 1.1044,
+        "ci_high": 0.9922
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -2.3967,
+        "ci_low": 1.1167,
+        "ci_high": 0.9222
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -1.9856,
+        "ci_low": 0.9544,
+        "ci_high": 0.7178
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": -1.9456,
+        "ci_low": 0.9156,
+        "ci_high": 0.7056
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": -1.9311,
+        "ci_low": 0.7822,
+        "ci_high": 0.7022
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -1.6556,
+        "ci_low": 0.5500,
+        "ci_high": 0.5256
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -1.4833,
+        "ci_low": 0.6822,
+        "ci_high": 0.5789
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -1.3900,
+        "ci_low": 0.4433,
+        "ci_high": 0.4233
+      },
+      {
+        "system_id": "refB",
+        "score": -1.3778,
+        "ci_low": 0.6422,
+        "ci_high": 0.5644
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": -1.3244,
+        "ci_low": 0.6333,
+        "ci_high": 0.5300
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -1.2933,
+        "ci_low": 0.6856,
+        "ci_high": 0.5022
+      },
+      {
+        "system_id": "Dubformer",
+        "score": -1.2878,
+        "ci_low": 0.5289,
+        "ci_high": 0.4989
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": -1.2400,
+        "ci_low": 0.5644,
+        "ci_high": 0.5111
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -0.9978,
+        "ci_low": 0.3889,
+        "ci_high": 0.3489
+      }
+    ]
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -23.7100,
+        "ci_low": 0.3996,
+        "ci_high": 0.3495
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -24.0585,
+        "ci_low": 0.6274,
+        "ci_high": 0.5983
+      },
+      {
+        "system_id": "C",
+        "score": -22.0765,
+        "ci_low": 0.5964,
+        "ci_high": 0.5277
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -22.3214,
+        "ci_low": 0.5003,
+        "ci_high": 0.5312
+      },
+      {
+        "system_id": "E (200k)",
+        "score": -22.1137,
+        "ci_low": 0.9481,
+        "ci_high": 0.8731
+      },
+      {
+        "system_id": "F",
+        "score": -20.3105,
+        "ci_low": 0.8136,
+        "ci_high": 0.7013
+      },
+      {
+        "system_id": "G (200k)",
+        "score": -18.1991,
+        "ci_low": 0.8019,
+        "ci_high": 0.9045
+      },
+      {
+        "system_id": "H (400k)",
+        "score": -17.1326,
+        "ci_low": 0.8226,
+        "ci_high": 0.9091
+      },
+      {
+        "system_id": "I (400k)",
+        "score": -16.0121,
+        "ci_low": 1.0324,
+        "ci_high": 1.0136
+      },
+      {
+        "system_id": "J",
+        "score": -18.9381,
+        "ci_low": 0.8330,
+        "ci_high": 0.8220
+      },
+      {
+        "system_id": "K",
+        "score": -14.7366,
+        "ci_low": 0.9353,
+        "ci_high": 0.8556
+      },
+      {
+        "system_id": "L",
+        "score": -7.6152,
+        "ci_low": 1.0488,
+        "ci_high": 0.9537
+      },
+      {
+        "system_id": "M*",
+        "score": -7.8767,
+        "ci_low": 1.1130,
+        "ci_high": 1.0105
+      },
+      {
+        "system_id": "IKUN",
+        "score": -2.4636,
+        "ci_low": 0.4589,
+        "ci_high": 0.4104
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -2.6414,
+        "ci_low": 0.3754,
+        "ci_high": 0.3449
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -1.9000,
+        "ci_low": 0.2690,
+        "ci_high": 0.2291
+      },
+      {
+        "system_id": "Aya23",
+        "score": -1.8141,
+        "ci_low": 0.2796,
+        "ci_high": 0.2772
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -1.7454,
+        "ci_low": 0.2943,
+        "ci_high": 0.2665
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -1.2370,
+        "ci_low": 0.1829,
+        "ci_high": 0.1708
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": -1.5650,
+        "ci_low": 0.2456,
+        "ci_high": 0.2303
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": -1.9425,
+        "ci_low": 0.3050,
+        "ci_high": 0.3042
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -1.6001,
+        "ci_low": 0.2351,
+        "ci_high": 0.2053
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -1.3799,
+        "ci_low": 0.2217,
+        "ci_high": 0.2024
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -1.4851,
+        "ci_low": 0.1959,
+        "ci_high": 0.1737
+      },
+      {
+        "system_id": "refB",
+        "score": -1.3534,
+        "ci_low": 0.2093,
+        "ci_high": 0.1940
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": -1.6838,
+        "ci_low": 0.3134,
+        "ci_high": 0.2755
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -1.1646,
+        "ci_low": 0.1678,
+        "ci_high": 0.1562
+      },
+      {
+        "system_id": "Dubformer",
+        "score": -1.4262,
+        "ci_low": 0.2820,
+        "ci_high": 0.2295
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": -1.3845,
+        "ci_low": 0.2237,
+        "ci_high": 0.2027
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -1.3971,
+        "ci_low": 0.2363,
+        "ci_high": 0.1869
+      }
+    ]
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -22.9715,
+        "ci_low": 0.2705,
+        "ci_high": 0.2962
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -22.9962,
+        "ci_low": 0.4545,
+        "ci_high": 0.4508
+      },
+      {
+        "system_id": "C",
+        "score": -21.2252,
+        "ci_low": 0.4309,
+        "ci_high": 0.4600
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -21.7602,
+        "ci_low": 0.4824,
+        "ci_high": 0.5029
+      },
+      {
+        "system_id": "E (200k)",
+        "score": -20.8582,
+        "ci_low": 0.8243,
+        "ci_high": 0.8575
+      },
+      {
+        "system_id": "F",
+        "score": -19.7109,
+        "ci_low": 0.6291,
+        "ci_high": 0.6745
+      },
+      {
+        "system_id": "G (200k)",
+        "score": -17.6411,
+        "ci_low": 0.8526,
+        "ci_high": 0.9738
+      },
+      {
+        "system_id": "H (400k)",
+        "score": -16.4587,
+        "ci_low": 0.8399,
+        "ci_high": 0.8287
+      },
+      {
+        "system_id": "I (400k)",
+        "score": -15.5015,
+        "ci_low": 1.0240,
+        "ci_high": 1.0365
+      },
+      {
+        "system_id": "J",
+        "score": -18.7450,
+        "ci_low": 0.9729,
+        "ci_high": 0.9489
+      },
+      {
+        "system_id": "K",
+        "score": -14.1554,
+        "ci_low": 0.9343,
+        "ci_high": 0.8723
+      },
+      {
+        "system_id": "L",
+        "score": -7.3220,
+        "ci_low": 0.9990,
+        "ci_high": 0.9814
+      },
+      {
+        "system_id": "M*",
+        "score": -7.5890,
+        "ci_low": 1.1136,
+        "ci_high": 0.9425
+      },
+      {
+        "system_id": "IKUN",
+        "score": -2.5284,
+        "ci_low": 0.4655,
+        "ci_high": 0.4120
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -2.6068,
+        "ci_low": 0.3909,
+        "ci_high": 0.3962
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -1.7813,
+        "ci_low": 0.2800,
+        "ci_high": 0.2436
+      },
+      {
+        "system_id": "Aya23",
+        "score": -1.7180,
+        "ci_low": 0.2712,
+        "ci_high": 0.2389
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -1.5800,
+        "ci_low": 0.2418,
+        "ci_high": 0.2121
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -1.1644,
+        "ci_low": 0.1754,
+        "ci_high": 0.1621
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": -1.4520,
+        "ci_low": 0.2111,
+        "ci_high": 0.1984
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": -1.8192,
+        "ci_low": 0.2928,
+        "ci_high": 0.2691
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -1.5120,
+        "ci_low": 0.2374,
+        "ci_high": 0.2156
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -1.2923,
+        "ci_low": 0.1829,
+        "ci_high": 0.1738
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -1.4072,
+        "ci_low": 0.1805,
+        "ci_high": 0.1678
+      },
+      {
+        "system_id": "refB",
+        "score": -1.2799,
+        "ci_low": 0.1686,
+        "ci_high": 0.1598
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": -1.5645,
+        "ci_low": 0.2867,
+        "ci_high": 0.2176
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -1.1434,
+        "ci_low": 0.1789,
+        "ci_high": 0.1608
+      },
+      {
+        "system_id": "Dubformer",
+        "score": -1.4015,
+        "ci_low": 0.2603,
+        "ci_high": 0.2181
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": -1.2870,
+        "ci_low": 0.1862,
+        "ci_high": 0.1805
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -1.3293,
+        "ci_low": 0.2033,
+        "ci_high": 0.1866
+      }
+    ]
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -1.8676,
+        "ci_low": 0.1351,
+        "ci_high": 0.1346
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -2.6449,
+        "ci_low": 0.1098,
+        "ci_high": 0.1125
+      },
+      {
+        "system_id": "C",
+        "score": -2.2007,
+        "ci_low": 0.1293,
+        "ci_high": 0.1271
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -2.5068,
+        "ci_low": 0.1061,
+        "ci_high": 0.1072
+      },
+      {
+        "system_id": "E (200k)",
+        "score": -2.3042,
+        "ci_low": 0.1417,
+        "ci_high": 0.1123
+      },
+      {
+        "system_id": "F",
+        "score": -2.0078,
+        "ci_low": 0.1194,
+        "ci_high": 0.1020
+      },
+      {
+        "system_id": "G (200k)",
+        "score": -1.9445,
+        "ci_low": 0.1182,
+        "ci_high": 0.1124
+      },
+      {
+        "system_id": "H (400k)",
+        "score": -1.8211,
+        "ci_low": 0.0984,
+        "ci_high": 0.0929
+      },
+      {
+        "system_id": "I (400k)",
+        "score": -1.7483,
+        "ci_low": 0.1292,
+        "ci_high": 0.1071
+      },
+      {
+        "system_id": "J",
+        "score": -1.7862,
+        "ci_low": 0.1022,
+        "ci_high": 0.0923
+      },
+      {
+        "system_id": "K",
+        "score": -1.4808,
+        "ci_low": 0.0965,
+        "ci_high": 0.0908
+      },
+      {
+        "system_id": "L",
+        "score": -1.1360,
+        "ci_low": 0.0996,
+        "ci_high": 0.0903
+      },
+      {
+        "system_id": "M*",
+        "score": -1.1130,
+        "ci_low": 0.0974,
+        "ci_high": 0.0860
+      },
+      {
+        "system_id": "IKUN",
+        "score": -0.8982,
+        "ci_low": 0.0708,
+        "ci_high": 0.0690
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -0.9353,
+        "ci_low": 0.0813,
+        "ci_high": 0.0759
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -0.8521,
+        "ci_low": 0.0609,
+        "ci_high": 0.0589
+      },
+      {
+        "system_id": "Aya23",
+        "score": -0.8480,
+        "ci_low": 0.0732,
+        "ci_high": 0.0663
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -0.8377,
+        "ci_low": 0.0757,
+        "ci_high": 0.0726
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -0.8111,
+        "ci_low": 0.0598,
+        "ci_high": 0.0614
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": -0.8259,
+        "ci_low": 0.0620,
+        "ci_high": 0.0617
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": -0.7912,
+        "ci_low": 0.0719,
+        "ci_high": 0.0722
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -0.7864,
+        "ci_low": 0.0640,
+        "ci_high": 0.0635
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -0.7828,
+        "ci_low": 0.0678,
+        "ci_high": 0.0594
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -0.8169,
+        "ci_low": 0.0656,
+        "ci_high": 0.0632
+      },
+      {
+        "system_id": "refB",
+        "score": -0.8976,
+        "ci_low": 0.0625,
+        "ci_high": 0.0596
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": -0.7937,
+        "ci_low": 0.0702,
+        "ci_high": 0.0681
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -0.8097,
+        "ci_low": 0.0656,
+        "ci_high": 0.0580
+      },
+      {
+        "system_id": "Dubformer",
+        "score": -0.7942,
+        "ci_low": 0.0685,
+        "ci_high": 0.0640
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": -0.7836,
+        "ci_low": 0.0663,
+        "ci_high": 0.0627
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -0.7861,
+        "ci_low": 0.0634,
+        "ci_high": 0.0580
+      }
+    ]
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -2.0432,
+        "ci_low": 0.1443,
+        "ci_high": 0.1193
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -2.8125,
+        "ci_low": 0.1164,
+        "ci_high": 0.1091
+      },
+      {
+        "system_id": "C",
+        "score": -2.4013,
+        "ci_low": 0.1376,
+        "ci_high": 0.1233
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -2.7090,
+        "ci_low": 0.1147,
+        "ci_high": 0.1116
+      },
+      {
+        "system_id": "E (200k)",
+        "score": -2.5011,
+        "ci_low": 0.1206,
+        "ci_high": 0.1137
+      },
+      {
+        "system_id": "F",
+        "score": -2.2270,
+        "ci_low": 0.1393,
+        "ci_high": 0.1097
+      },
+      {
+        "system_id": "G (200k)",
+        "score": -2.1688,
+        "ci_low": 0.1362,
+        "ci_high": 0.1124
+      },
+      {
+        "system_id": "H (400k)",
+        "score": -2.0165,
+        "ci_low": 0.0980,
+        "ci_high": 0.1013
+      },
+      {
+        "system_id": "I (400k)",
+        "score": -1.9620,
+        "ci_low": 0.1425,
+        "ci_high": 0.1338
+      },
+      {
+        "system_id": "J",
+        "score": -1.9980,
+        "ci_low": 0.1094,
+        "ci_high": 0.0992
+      },
+      {
+        "system_id": "K",
+        "score": -1.6893,
+        "ci_low": 0.0973,
+        "ci_high": 0.0929
+      },
+      {
+        "system_id": "L",
+        "score": -1.2970,
+        "ci_low": 0.1093,
+        "ci_high": 0.0882
+      },
+      {
+        "system_id": "M*",
+        "score": -1.2962,
+        "ci_low": 0.0960,
+        "ci_high": 0.0952
+      },
+      {
+        "system_id": "IKUN",
+        "score": -1.0227,
+        "ci_low": 0.0752,
+        "ci_high": 0.0702
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -1.0531,
+        "ci_low": 0.0842,
+        "ci_high": 0.0767
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -0.9971,
+        "ci_low": 0.0671,
+        "ci_high": 0.0636
+      },
+      {
+        "system_id": "Aya23",
+        "score": -0.9771,
+        "ci_low": 0.0789,
+        "ci_high": 0.0720
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -0.9730,
+        "ci_low": 0.0858,
+        "ci_high": 0.0735
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -0.9501,
+        "ci_low": 0.0651,
+        "ci_high": 0.0653
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": -0.9566,
+        "ci_low": 0.0701,
+        "ci_high": 0.0652
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": -0.9062,
+        "ci_low": 0.0757,
+        "ci_high": 0.0696
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -0.9009,
+        "ci_low": 0.0631,
+        "ci_high": 0.0628
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -0.8972,
+        "ci_low": 0.0633,
+        "ci_high": 0.0612
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -0.9385,
+        "ci_low": 0.0640,
+        "ci_high": 0.0576
+      },
+      {
+        "system_id": "refB",
+        "score": -1.0379,
+        "ci_low": 0.0634,
+        "ci_high": 0.0625
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": -0.9157,
+        "ci_low": 0.0767,
+        "ci_high": 0.0751
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -0.9365,
+        "ci_low": 0.0665,
+        "ci_high": 0.0588
+      },
+      {
+        "system_id": "Dubformer",
+        "score": -0.9185,
+        "ci_low": 0.0729,
+        "ci_high": 0.0650
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": -0.8958,
+        "ci_low": 0.0627,
+        "ci_high": 0.0576
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -0.9035,
+        "ci_low": 0.0620,
+        "ci_high": 0.0593
+      }
+    ]
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -0.0432,
+        "ci_low": 0.0013,
+        "ci_high": 0.0013
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -0.0380,
+        "ci_low": 0.0068,
+        "ci_high": 0.0106
+      },
+      {
+        "system_id": "C",
+        "score": -0.0301,
+        "ci_low": 0.0077,
+        "ci_high": 0.0109
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -0.0207,
+        "ci_low": 0.0106,
+        "ci_high": 0.0126
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.0099,
+        "ci_low": 0.0193,
+        "ci_high": 0.0228
+      },
+      {
+        "system_id": "F",
+        "score": 0.0446,
+        "ci_low": 0.0262,
+        "ci_high": 0.0291
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.1855,
+        "ci_low": 0.0375,
+        "ci_high": 0.0421
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.2534,
+        "ci_low": 0.0449,
+        "ci_high": 0.0494
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.2938,
+        "ci_low": 0.0461,
+        "ci_high": 0.0496
+      },
+      {
+        "system_id": "J",
+        "score": 0.1477,
+        "ci_low": 0.0395,
+        "ci_high": 0.0444
+      },
+      {
+        "system_id": "K",
+        "score": 0.4002,
+        "ci_low": 0.0505,
+        "ci_high": 0.0482
+      },
+      {
+        "system_id": "L",
+        "score": 0.7270,
+        "ci_low": 0.0399,
+        "ci_high": 0.0396
+      },
+      {
+        "system_id": "M*",
+        "score": 0.7285,
+        "ci_low": 0.0354,
+        "ci_high": 0.0343
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.9087,
+        "ci_low": 0.0224,
+        "ci_high": 0.0210
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.9089,
+        "ci_low": 0.0146,
+        "ci_high": 0.0146
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.9245,
+        "ci_low": 0.0127,
+        "ci_high": 0.0128
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.9318,
+        "ci_low": 0.0144,
+        "ci_high": 0.0121
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.9375,
+        "ci_low": 0.0131,
+        "ci_high": 0.0122
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.9654,
+        "ci_low": 0.0077,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.9363,
+        "ci_low": 0.0128,
+        "ci_high": 0.0119
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.9288,
+        "ci_low": 0.0120,
+        "ci_high": 0.0122
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.9413,
+        "ci_low": 0.0130,
+        "ci_high": 0.0122
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.9493,
+        "ci_low": 0.0120,
+        "ci_high": 0.0106
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.9387,
+        "ci_low": 0.0109,
+        "ci_high": 0.0115
+      },
+      {
+        "system_id": "refB",
+        "score": 0.9436,
+        "ci_low": 0.0111,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.9432,
+        "ci_low": 0.0110,
+        "ci_high": 0.0110
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.9468,
+        "ci_low": 0.0121,
+        "ci_high": 0.0114
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.9499,
+        "ci_low": 0.0109,
+        "ci_high": 0.0100
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.9493,
+        "ci_low": 0.0113,
+        "ci_high": 0.0106
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.9452,
+        "ci_low": 0.0118,
+        "ci_high": 0.0109
+      }
+    ]
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -0.0362,
+        "ci_low": 0.0015,
+        "ci_high": 0.0016
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -0.0263,
+        "ci_low": 0.0062,
+        "ci_high": 0.0095
+      },
+      {
+        "system_id": "C",
+        "score": -0.0151,
+        "ci_low": 0.0129,
+        "ci_high": 0.0187
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -0.0056,
+        "ci_low": 0.0126,
+        "ci_high": 0.0154
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.0235,
+        "ci_low": 0.0212,
+        "ci_high": 0.0259
+      },
+      {
+        "system_id": "F",
+        "score": 0.0755,
+        "ci_low": 0.0289,
+        "ci_high": 0.0334
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.1939,
+        "ci_low": 0.0457,
+        "ci_high": 0.0458
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.2444,
+        "ci_low": 0.0473,
+        "ci_high": 0.0551
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.2799,
+        "ci_low": 0.0480,
+        "ci_high": 0.0458
+      },
+      {
+        "system_id": "J",
+        "score": 0.1593,
+        "ci_low": 0.0384,
+        "ci_high": 0.0412
+      },
+      {
+        "system_id": "K",
+        "score": 0.3815,
+        "ci_low": 0.0507,
+        "ci_high": 0.0537
+      },
+      {
+        "system_id": "L",
+        "score": 0.6944,
+        "ci_low": 0.0413,
+        "ci_high": 0.0401
+      },
+      {
+        "system_id": "M*",
+        "score": 0.6995,
+        "ci_low": 0.0410,
+        "ci_high": 0.0381
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.8859,
+        "ci_low": 0.0247,
+        "ci_high": 0.0215
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8802,
+        "ci_low": 0.0182,
+        "ci_high": 0.0173
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.9015,
+        "ci_low": 0.0163,
+        "ci_high": 0.0156
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.9126,
+        "ci_low": 0.0144,
+        "ci_high": 0.0149
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.9186,
+        "ci_low": 0.0143,
+        "ci_high": 0.0121
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.9506,
+        "ci_low": 0.0104,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.9177,
+        "ci_low": 0.0171,
+        "ci_high": 0.0150
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.9081,
+        "ci_low": 0.0127,
+        "ci_high": 0.0135
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.9240,
+        "ci_low": 0.0127,
+        "ci_high": 0.0124
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.9316,
+        "ci_low": 0.0139,
+        "ci_high": 0.0119
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.9202,
+        "ci_low": 0.0114,
+        "ci_high": 0.0116
+      },
+      {
+        "system_id": "refB",
+        "score": 0.9226,
+        "ci_low": 0.0138,
+        "ci_high": 0.0122
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.9241,
+        "ci_low": 0.0124,
+        "ci_high": 0.0110
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.9305,
+        "ci_low": 0.0124,
+        "ci_high": 0.0106
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.9297,
+        "ci_low": 0.0137,
+        "ci_high": 0.0115
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.9319,
+        "ci_low": 0.0128,
+        "ci_high": 0.0114
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.9264,
+        "ci_low": 0.0134,
+        "ci_high": 0.0120
+      }
+    ]
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.7503,
+        "ci_low": 0.0111,
+        "ci_high": 0.0105
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.7537,
+        "ci_low": 0.0133,
+        "ci_high": 0.0124
+      },
+      {
+        "system_id": "C",
+        "score": 0.7667,
+        "ci_low": 0.0204,
+        "ci_high": 0.0188
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.7864,
+        "ci_low": 0.0112,
+        "ci_high": 0.0119
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.7883,
+        "ci_low": 0.0158,
+        "ci_high": 0.0148
+      },
+      {
+        "system_id": "F",
+        "score": 0.8281,
+        "ci_low": 0.0122,
+        "ci_high": 0.0105
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.8323,
+        "ci_low": 0.0146,
+        "ci_high": 0.0134
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.8497,
+        "ci_low": 0.0113,
+        "ci_high": 0.0105
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.8569,
+        "ci_low": 0.0117,
+        "ci_high": 0.0107
+      },
+      {
+        "system_id": "J",
+        "score": 0.8354,
+        "ci_low": 0.0137,
+        "ci_high": 0.0135
+      },
+      {
+        "system_id": "K",
+        "score": 0.8645,
+        "ci_low": 0.0115,
+        "ci_high": 0.0101
+      },
+      {
+        "system_id": "L",
+        "score": 0.8854,
+        "ci_low": 0.0090,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "M*",
+        "score": 0.8862,
+        "ci_low": 0.0106,
+        "ci_high": 0.0100
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.8938,
+        "ci_low": 0.0071,
+        "ci_high": 0.0066
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8950,
+        "ci_low": 0.0069,
+        "ci_high": 0.0069
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8736,
+        "ci_low": 0.0100,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8930,
+        "ci_low": 0.0074,
+        "ci_high": 0.0071
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8844,
+        "ci_low": 0.0097,
+        "ci_high": 0.0080
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8994,
+        "ci_low": 0.0058,
+        "ci_high": 0.0059
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.8899,
+        "ci_low": 0.0089,
+        "ci_high": 0.0077
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.8724,
+        "ci_low": 0.0100,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8818,
+        "ci_low": 0.0083,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8982,
+        "ci_low": 0.0067,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8786,
+        "ci_low": 0.0088,
+        "ci_high": 0.0088
+      },
+      {
+        "system_id": "refB",
+        "score": 0.9003,
+        "ci_low": 0.0059,
+        "ci_high": 0.0053
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.8786,
+        "ci_low": 0.0097,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8944,
+        "ci_low": 0.0065,
+        "ci_high": 0.0059
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.8803,
+        "ci_low": 0.0095,
+        "ci_high": 0.0089
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.8989,
+        "ci_low": 0.0068,
+        "ci_high": 0.0057
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8794,
+        "ci_low": 0.0091,
+        "ci_high": 0.0079
+      }
+    ]
+  },
+  {
+    "metric": "YiSi-1",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.7901,
+        "ci_low": 0.0048,
+        "ci_high": 0.0053
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.8355,
+        "ci_low": 0.0037,
+        "ci_high": 0.0039
+      },
+      {
+        "system_id": "C",
+        "score": 0.8416,
+        "ci_low": 0.0042,
+        "ci_high": 0.0038
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.8480,
+        "ci_low": 0.0039,
+        "ci_high": 0.0037
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.8557,
+        "ci_low": 0.0043,
+        "ci_high": 0.0042
+      },
+      {
+        "system_id": "F",
+        "score": 0.8614,
+        "ci_low": 0.0051,
+        "ci_high": 0.0052
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.8785,
+        "ci_low": 0.0043,
+        "ci_high": 0.0048
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.8836,
+        "ci_low": 0.0042,
+        "ci_high": 0.0041
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.8888,
+        "ci_low": 0.0053,
+        "ci_high": 0.0050
+      },
+      {
+        "system_id": "J",
+        "score": 0.8759,
+        "ci_low": 0.0042,
+        "ci_high": 0.0040
+      },
+      {
+        "system_id": "K",
+        "score": 0.8987,
+        "ci_low": 0.0045,
+        "ci_high": 0.0042
+      },
+      {
+        "system_id": "L",
+        "score": 0.9227,
+        "ci_low": 0.0049,
+        "ci_high": 0.0050
+      },
+      {
+        "system_id": "M*",
+        "score": 0.9210,
+        "ci_low": 0.0054,
+        "ci_high": 0.0052
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.9339,
+        "ci_low": 0.0044,
+        "ci_high": 0.0040
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.9320,
+        "ci_low": 0.0044,
+        "ci_high": 0.0045
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.9351,
+        "ci_low": 0.0041,
+        "ci_high": 0.0038
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.9375,
+        "ci_low": 0.0039,
+        "ci_high": 0.0040
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.9384,
+        "ci_low": 0.0039,
+        "ci_high": 0.0042
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.9392,
+        "ci_low": 0.0039,
+        "ci_high": 0.0040
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.9378,
+        "ci_low": 0.0039,
+        "ci_high": 0.0036
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.9419,
+        "ci_low": 0.0042,
+        "ci_high": 0.0039
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.9403,
+        "ci_low": 0.0036,
+        "ci_high": 0.0040
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.9419,
+        "ci_low": 0.0038,
+        "ci_high": 0.0036
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.9401,
+        "ci_low": 0.0036,
+        "ci_high": 0.0037
+      },
+      {
+        "system_id": "refB",
+        "score": 0.9313,
+        "ci_low": 0.0040,
+        "ci_high": 0.0044
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.9424,
+        "ci_low": 0.0040,
+        "ci_high": 0.0041
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.9398,
+        "ci_low": 0.0038,
+        "ci_high": 0.0038
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.9394,
+        "ci_low": 0.0042,
+        "ci_high": 0.0045
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.9416,
+        "ci_low": 0.0038,
+        "ci_high": 0.0038
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.9404,
+        "ci_low": 0.0037,
+        "ci_high": 0.0042
+      }
+    ]
+  },
+  {
+    "metric": "chrF",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 17.1862,
+        "ci_low": 0.9546,
+        "ci_high": 0.9231
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 29.2200,
+        "ci_low": 1.3508,
+        "ci_high": 1.3080
+      },
+      {
+        "system_id": "C",
+        "score": 29.8289,
+        "ci_low": 1.5939,
+        "ci_high": 1.4942
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 33.2122,
+        "ci_low": 1.9160,
+        "ci_high": 1.7683
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 37.0103,
+        "ci_low": 1.6556,
+        "ci_high": 1.6149
+      },
+      {
+        "system_id": "F",
+        "score": 33.7667,
+        "ci_low": 1.9390,
+        "ci_high": 1.8708
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 39.1980,
+        "ci_low": 1.8225,
+        "ci_high": 1.8090
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 40.1946,
+        "ci_low": 1.7986,
+        "ci_high": 1.6970
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 42.0723,
+        "ci_low": 2.0117,
+        "ci_high": 1.8587
+      },
+      {
+        "system_id": "J",
+        "score": 37.6700,
+        "ci_low": 1.9355,
+        "ci_high": 1.8480
+      },
+      {
+        "system_id": "K",
+        "score": 44.4130,
+        "ci_low": 1.8900,
+        "ci_high": 1.8918
+      },
+      {
+        "system_id": "L",
+        "score": 51.6712,
+        "ci_low": 2.4462,
+        "ci_high": 2.5018
+      },
+      {
+        "system_id": "M*",
+        "score": 51.0565,
+        "ci_low": 2.4909,
+        "ci_high": 2.6282
+      },
+      {
+        "system_id": "IKUN",
+        "score": 56.2486,
+        "ci_low": 2.1687,
+        "ci_high": 2.1797
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 55.5196,
+        "ci_low": 2.5026,
+        "ci_high": 2.8068
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 56.5024,
+        "ci_low": 2.1261,
+        "ci_high": 2.1768
+      },
+      {
+        "system_id": "Aya23",
+        "score": 57.5019,
+        "ci_low": 2.3076,
+        "ci_high": 2.2193
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 59.0477,
+        "ci_low": 2.3940,
+        "ci_high": 2.4306
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 58.2374,
+        "ci_low": 2.4815,
+        "ci_high": 2.3719
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 58.5297,
+        "ci_low": 2.1581,
+        "ci_high": 2.2132
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 60.5523,
+        "ci_low": 2.5416,
+        "ci_high": 2.2660
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 58.7952,
+        "ci_low": 2.5018,
+        "ci_high": 2.3514
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 60.3329,
+        "ci_low": 2.2029,
+        "ci_high": 2.2923
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 59.3960,
+        "ci_low": 1.8972,
+        "ci_high": 2.0872
+      },
+      {
+        "system_id": "refB",
+        "score": 55.4104,
+        "ci_low": 2.3530,
+        "ci_high": 2.0991
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 60.3180,
+        "ci_low": 2.3950,
+        "ci_high": 2.5949
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 59.5891,
+        "ci_low": 2.1238,
+        "ci_high": 2.0799
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 58.8734,
+        "ci_low": 2.5037,
+        "ci_high": 2.4466
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 60.4529,
+        "ci_low": 2.2855,
+        "ci_high": 2.2482
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 59.8117,
+        "ci_low": 2.0898,
+        "ci_high": 1.9318
+      }
+    ]
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.1838,
+        "ci_low": 0.0125,
+        "ci_high": 0.0124
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.4018,
+        "ci_low": 0.0203,
+        "ci_high": 0.0184
+      },
+      {
+        "system_id": "C",
+        "score": 0.4215,
+        "ci_low": 0.0188,
+        "ci_high": 0.0183
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.4750,
+        "ci_low": 0.0226,
+        "ci_high": 0.0226
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.5091,
+        "ci_low": 0.0200,
+        "ci_high": 0.0201
+      },
+      {
+        "system_id": "F",
+        "score": 0.5090,
+        "ci_low": 0.0213,
+        "ci_high": 0.0212
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.5657,
+        "ci_low": 0.0192,
+        "ci_high": 0.0184
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.5755,
+        "ci_low": 0.0200,
+        "ci_high": 0.0192
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.5940,
+        "ci_low": 0.0227,
+        "ci_high": 0.0222
+      },
+      {
+        "system_id": "J",
+        "score": 0.5692,
+        "ci_low": 0.0175,
+        "ci_high": 0.0165
+      },
+      {
+        "system_id": "K",
+        "score": 0.6381,
+        "ci_low": 0.0161,
+        "ci_high": 0.0173
+      },
+      {
+        "system_id": "L",
+        "score": 0.6919,
+        "ci_low": 0.0200,
+        "ci_high": 0.0192
+      },
+      {
+        "system_id": "M*",
+        "score": 0.6880,
+        "ci_low": 0.0201,
+        "ci_high": 0.0200
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.7255,
+        "ci_low": 0.0166,
+        "ci_high": 0.0169
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.7198,
+        "ci_low": 0.0207,
+        "ci_high": 0.0208
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.7273,
+        "ci_low": 0.0151,
+        "ci_high": 0.0137
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.7350,
+        "ci_low": 0.0176,
+        "ci_high": 0.0165
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.7411,
+        "ci_low": 0.0184,
+        "ci_high": 0.0173
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.7384,
+        "ci_low": 0.0180,
+        "ci_high": 0.0174
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.7402,
+        "ci_low": 0.0159,
+        "ci_high": 0.0160
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.7550,
+        "ci_low": 0.0174,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.7437,
+        "ci_low": 0.0181,
+        "ci_high": 0.0165
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.7525,
+        "ci_low": 0.0150,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.7445,
+        "ci_low": 0.0149,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "refB",
+        "score": 0.7178,
+        "ci_low": 0.0177,
+        "ci_high": 0.0154
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.7515,
+        "ci_low": 0.0188,
+        "ci_high": 0.0180
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.7448,
+        "ci_low": 0.0170,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.7420,
+        "ci_low": 0.0174,
+        "ci_high": 0.0165
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.7526,
+        "ci_low": 0.0150,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.7489,
+        "ci_low": 0.0138,
+        "ci_high": 0.0133
+      }
+    ]
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 16.1369,
+        "ci_low": 1.8691,
+        "ci_high": 1.8971
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 25.6547,
+        "ci_low": 2.0848,
+        "ci_high": 2.1590
+      },
+      {
+        "system_id": "C",
+        "score": 27.7762,
+        "ci_low": 2.2519,
+        "ci_high": 2.0889
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 33.2214,
+        "ci_low": 1.6488,
+        "ci_high": 1.6664
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 36.7050,
+        "ci_low": 1.9407,
+        "ci_high": 1.8698
+      },
+      {
+        "system_id": "F",
+        "score": 35.3999,
+        "ci_low": 1.7889,
+        "ci_high": 1.8047
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 41.9645,
+        "ci_low": 1.6968,
+        "ci_high": 1.6276
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 42.1161,
+        "ci_low": 1.9276,
+        "ci_high": 1.9547
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 43.8718,
+        "ci_low": 1.6656,
+        "ci_high": 1.6381
+      },
+      {
+        "system_id": "J",
+        "score": 40.7681,
+        "ci_low": 1.5335,
+        "ci_high": 1.5270
+      },
+      {
+        "system_id": "K",
+        "score": 48.0576,
+        "ci_low": 1.2123,
+        "ci_high": 1.2224
+      },
+      {
+        "system_id": "L",
+        "score": 52.6348,
+        "ci_low": 0.9835,
+        "ci_high": 0.9240
+      },
+      {
+        "system_id": "M*",
+        "score": 52.4969,
+        "ci_low": 0.9651,
+        "ci_high": 0.9124
+      },
+      {
+        "system_id": "IKUN",
+        "score": 53.9850,
+        "ci_low": 0.7908,
+        "ci_high": 0.7869
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 53.5948,
+        "ci_low": 0.8649,
+        "ci_high": 0.7791
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 55.3308,
+        "ci_low": 0.6795,
+        "ci_high": 0.6402
+      },
+      {
+        "system_id": "Aya23",
+        "score": 54.6725,
+        "ci_low": 0.7139,
+        "ci_high": 0.7362
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 55.2379,
+        "ci_low": 0.6730,
+        "ci_high": 0.6641
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 55.2856,
+        "ci_low": 0.6997,
+        "ci_high": 0.6211
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 55.0029,
+        "ci_low": 0.7105,
+        "ci_high": 0.6225
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 55.2789,
+        "ci_low": 0.7826,
+        "ci_high": 0.6269
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 55.0296,
+        "ci_low": 0.6103,
+        "ci_high": 0.5745
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 55.7402,
+        "ci_low": 0.6674,
+        "ci_high": 0.6632
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 55.5470,
+        "ci_low": 0.6261,
+        "ci_high": 0.6187
+      },
+      {
+        "system_id": "refB",
+        "score": 54.6579,
+        "ci_low": 0.8250,
+        "ci_high": 0.7096
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 55.4312,
+        "ci_low": 0.7631,
+        "ci_high": 0.7233
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 55.3363,
+        "ci_low": 0.6683,
+        "ci_high": 0.6527
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 55.0759,
+        "ci_low": 0.7222,
+        "ci_high": 0.6775
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 55.7658,
+        "ci_low": 0.6796,
+        "ci_high": 0.6613
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 55.3263,
+        "ci_low": 0.7057,
+        "ci_high": 0.6116
+      }
+    ]
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.0988,
+        "ci_low": 0.0033,
+        "ci_high": 0.0047
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.1753,
+        "ci_low": 0.0329,
+        "ci_high": 0.0348
+      },
+      {
+        "system_id": "C",
+        "score": 0.1819,
+        "ci_low": 0.0356,
+        "ci_high": 0.0421
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.2364,
+        "ci_low": 0.0465,
+        "ci_high": 0.0501
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.2818,
+        "ci_low": 0.0568,
+        "ci_high": 0.0599
+      },
+      {
+        "system_id": "F",
+        "score": 0.3101,
+        "ci_low": 0.0541,
+        "ci_high": 0.0647
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.4974,
+        "ci_low": 0.0740,
+        "ci_high": 0.0691
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.6082,
+        "ci_low": 0.0745,
+        "ci_high": 0.0737
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.6486,
+        "ci_low": 0.0716,
+        "ci_high": 0.0763
+      },
+      {
+        "system_id": "J",
+        "score": 0.4101,
+        "ci_low": 0.0660,
+        "ci_high": 0.0702
+      },
+      {
+        "system_id": "K",
+        "score": 0.7274,
+        "ci_low": 0.0619,
+        "ci_high": 0.0662
+      },
+      {
+        "system_id": "L",
+        "score": 1.1702,
+        "ci_low": 0.0356,
+        "ci_high": 0.0310
+      },
+      {
+        "system_id": "M*",
+        "score": 1.1670,
+        "ci_low": 0.0337,
+        "ci_high": 0.0355
+      },
+      {
+        "system_id": "IKUN",
+        "score": 1.3481,
+        "ci_low": 0.0232,
+        "ci_high": 0.0204
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 1.3512,
+        "ci_low": 0.0130,
+        "ci_high": 0.0129
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 1.3678,
+        "ci_low": 0.0102,
+        "ci_high": 0.0095
+      },
+      {
+        "system_id": "Aya23",
+        "score": 1.3746,
+        "ci_low": 0.0123,
+        "ci_high": 0.0110
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 1.3828,
+        "ci_low": 0.0101,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 1.4033,
+        "ci_low": 0.0064,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 1.3821,
+        "ci_low": 0.0106,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 1.3685,
+        "ci_low": 0.0129,
+        "ci_high": 0.0116
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 1.3829,
+        "ci_low": 0.0090,
+        "ci_high": 0.0083
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 1.3934,
+        "ci_low": 0.0089,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 1.3829,
+        "ci_low": 0.0095,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "refB",
+        "score": 1.3939,
+        "ci_low": 0.0089,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 1.3848,
+        "ci_low": 0.0099,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 1.3957,
+        "ci_low": 0.0081,
+        "ci_high": 0.0082
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 1.3929,
+        "ci_low": 0.0102,
+        "ci_high": 0.0083
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 1.3931,
+        "ci_low": 0.0093,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 1.3855,
+        "ci_low": 0.0102,
+        "ci_high": 0.0096
+      }
+    ]
+  },
+  {
+    "metric": "metametrics_mt_mqm_qe",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.1514,
+        "ci_low": 0.0009,
+        "ci_high": 0.0009
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.2150,
+        "ci_low": 0.0298,
+        "ci_high": 0.0353
+      },
+      {
+        "system_id": "C",
+        "score": 0.2170,
+        "ci_low": 0.0307,
+        "ci_high": 0.0394
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.2728,
+        "ci_low": 0.0350,
+        "ci_high": 0.0433
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.3461,
+        "ci_low": 0.0550,
+        "ci_high": 0.0626
+      },
+      {
+        "system_id": "F",
+        "score": 0.3617,
+        "ci_low": 0.0577,
+        "ci_high": 0.0583
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.6430,
+        "ci_low": 0.0696,
+        "ci_high": 0.0633
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.7381,
+        "ci_low": 0.0540,
+        "ci_high": 0.0513
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.7692,
+        "ci_low": 0.0569,
+        "ci_high": 0.0555
+      },
+      {
+        "system_id": "J",
+        "score": 0.4583,
+        "ci_low": 0.0581,
+        "ci_high": 0.0585
+      },
+      {
+        "system_id": "K",
+        "score": 0.8087,
+        "ci_low": 0.0430,
+        "ci_high": 0.0489
+      },
+      {
+        "system_id": "L",
+        "score": 1.0486,
+        "ci_low": 0.0270,
+        "ci_high": 0.0261
+      },
+      {
+        "system_id": "M*",
+        "score": 1.0439,
+        "ci_low": 0.0245,
+        "ci_high": 0.0218
+      },
+      {
+        "system_id": "IKUN",
+        "score": 1.1439,
+        "ci_low": 0.0130,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 1.1451,
+        "ci_low": 0.0113,
+        "ci_high": 0.0097
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 1.1475,
+        "ci_low": 0.0115,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "Aya23",
+        "score": 1.1504,
+        "ci_low": 0.0103,
+        "ci_high": 0.0087
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 1.1512,
+        "ci_low": 0.0072,
+        "ci_high": 0.0066
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 1.1610,
+        "ci_low": 0.0054,
+        "ci_high": 0.0046
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 1.1514,
+        "ci_low": 0.0104,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 1.1464,
+        "ci_low": 0.0092,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 1.1515,
+        "ci_low": 0.0095,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 1.1557,
+        "ci_low": 0.0087,
+        "ci_high": 0.0068
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 1.1522,
+        "ci_low": 0.0099,
+        "ci_high": 0.0080
+      },
+      {
+        "system_id": "refB",
+        "score": 1.1569,
+        "ci_low": 0.0057,
+        "ci_high": 0.0055
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 1.1480,
+        "ci_low": 0.0092,
+        "ci_high": 0.0090
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 1.1554,
+        "ci_low": 0.0061,
+        "ci_high": 0.0061
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 1.1447,
+        "ci_low": 0.0084,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 1.1554,
+        "ci_low": 0.0088,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 1.1532,
+        "ci_low": 0.0072,
+        "ci_high": 0.0067
+      }
+    ]
+  },
+  {
+    "metric": "sentinel-cand",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -1.9391,
+        "ci_low": 0.0603,
+        "ci_high": 0.0698
+      },
+      {
+        "system_id": "B (50k)",
+        "score": -1.8361,
+        "ci_low": 0.1779,
+        "ci_high": 0.1950
+      },
+      {
+        "system_id": "C",
+        "score": -1.9942,
+        "ci_low": 0.1309,
+        "ci_high": 0.1458
+      },
+      {
+        "system_id": "D (50k)",
+        "score": -1.9037,
+        "ci_low": 0.1536,
+        "ci_high": 0.1813
+      },
+      {
+        "system_id": "E (200k)",
+        "score": -1.7252,
+        "ci_low": 0.1711,
+        "ci_high": 0.1693
+      },
+      {
+        "system_id": "F",
+        "score": -1.8318,
+        "ci_low": 0.1702,
+        "ci_high": 0.1773
+      },
+      {
+        "system_id": "G (200k)",
+        "score": -1.4522,
+        "ci_low": 0.1984,
+        "ci_high": 0.1881
+      },
+      {
+        "system_id": "H (400k)",
+        "score": -1.2451,
+        "ci_low": 0.1827,
+        "ci_high": 0.2027
+      },
+      {
+        "system_id": "I (400k)",
+        "score": -1.1451,
+        "ci_low": 0.1915,
+        "ci_high": 0.2067
+      },
+      {
+        "system_id": "J",
+        "score": -1.8309,
+        "ci_low": 0.1767,
+        "ci_high": 0.1944
+      },
+      {
+        "system_id": "K",
+        "score": -1.2612,
+        "ci_low": 0.1901,
+        "ci_high": 0.1999
+      },
+      {
+        "system_id": "L",
+        "score": -0.2065,
+        "ci_low": 0.1221,
+        "ci_high": 0.1097
+      },
+      {
+        "system_id": "M*",
+        "score": -0.1919,
+        "ci_low": 0.1215,
+        "ci_high": 0.1203
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.2461,
+        "ci_low": 0.0734,
+        "ci_high": 0.0638
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.2434,
+        "ci_low": 0.0484,
+        "ci_high": 0.0471
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.2350,
+        "ci_low": 0.0467,
+        "ci_high": 0.0468
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.2656,
+        "ci_low": 0.0530,
+        "ci_high": 0.0447
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.2950,
+        "ci_low": 0.0398,
+        "ci_high": 0.0366
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.3700,
+        "ci_low": 0.0304,
+        "ci_high": 0.0292
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.2995,
+        "ci_low": 0.0396,
+        "ci_high": 0.0364
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.2479,
+        "ci_low": 0.0500,
+        "ci_high": 0.0424
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.2866,
+        "ci_low": 0.0407,
+        "ci_high": 0.0378
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.3277,
+        "ci_low": 0.0357,
+        "ci_high": 0.0334
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.2910,
+        "ci_low": 0.0420,
+        "ci_high": 0.0363
+      },
+      {
+        "system_id": "refB",
+        "score": 0.3433,
+        "ci_low": 0.0321,
+        "ci_high": 0.0331
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.3018,
+        "ci_low": 0.0378,
+        "ci_high": 0.0353
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.3188,
+        "ci_low": 0.0386,
+        "ci_high": 0.0351
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.3219,
+        "ci_low": 0.0368,
+        "ci_high": 0.0370
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.3269,
+        "ci_low": 0.0378,
+        "ci_high": 0.0350
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.2960,
+        "ci_low": 0.0417,
+        "ci_high": 0.0428
+      }
+    ]
+  },
+  {
+    "metric": "sentinel-ref",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.1508,
+        "ci_low": 0.0523,
+        "ci_high": 0.0529
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.1508,
+        "ci_low": 0.0584,
+        "ci_high": 0.0542
+      },
+      {
+        "system_id": "C",
+        "score": 0.1508,
+        "ci_low": 0.0555,
+        "ci_high": 0.0524
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.1508,
+        "ci_low": 0.0556,
+        "ci_high": 0.0490
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.1508,
+        "ci_low": 0.0583,
+        "ci_high": 0.0528
+      },
+      {
+        "system_id": "F",
+        "score": 0.1508,
+        "ci_low": 0.0549,
+        "ci_high": 0.0552
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.1508,
+        "ci_low": 0.0591,
+        "ci_high": 0.0561
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.1508,
+        "ci_low": 0.0590,
+        "ci_high": 0.0519
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.1508,
+        "ci_low": 0.0585,
+        "ci_high": 0.0545
+      },
+      {
+        "system_id": "J",
+        "score": 0.1508,
+        "ci_low": 0.0558,
+        "ci_high": 0.0547
+      },
+      {
+        "system_id": "K",
+        "score": 0.1508,
+        "ci_low": 0.0541,
+        "ci_high": 0.0564
+      },
+      {
+        "system_id": "L",
+        "score": 0.1508,
+        "ci_low": 0.0567,
+        "ci_high": 0.0523
+      },
+      {
+        "system_id": "M*",
+        "score": 0.1508,
+        "ci_low": 0.0505,
+        "ci_high": 0.0547
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.1508,
+        "ci_low": 0.0537,
+        "ci_high": 0.0494
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.1508,
+        "ci_low": 0.0559,
+        "ci_high": 0.0543
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.1508,
+        "ci_low": 0.0580,
+        "ci_high": 0.0559
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.1508,
+        "ci_low": 0.0543,
+        "ci_high": 0.0528
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.1508,
+        "ci_low": 0.0539,
+        "ci_high": 0.0534
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.1508,
+        "ci_low": 0.0566,
+        "ci_high": 0.0570
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.1508,
+        "ci_low": 0.0555,
+        "ci_high": 0.0554
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.1508,
+        "ci_low": 0.0576,
+        "ci_high": 0.0496
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.1508,
+        "ci_low": 0.0569,
+        "ci_high": 0.0541
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.1508,
+        "ci_low": 0.0570,
+        "ci_high": 0.0540
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.1508,
+        "ci_low": 0.0548,
+        "ci_high": 0.0527
+      },
+      {
+        "system_id": "refB",
+        "score": 0.1508,
+        "ci_low": 0.0548,
+        "ci_high": 0.0515
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.1508,
+        "ci_low": 0.0556,
+        "ci_high": 0.0545
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.1508,
+        "ci_low": 0.0548,
+        "ci_high": 0.0523
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.1508,
+        "ci_low": 0.0571,
+        "ci_high": 0.0546
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.1508,
+        "ci_low": 0.0535,
+        "ci_high": 0.0549
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.1508,
+        "ci_low": 0.0576,
+        "ci_high": 0.0531
+      }
+    ]
+  },
+  {
+    "metric": "sentinel-src",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.2046,
+        "ci_low": 0.0623,
+        "ci_high": 0.0580
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 0.2046,
+        "ci_low": 0.0560,
+        "ci_high": 0.0556
+      },
+      {
+        "system_id": "C",
+        "score": 0.2046,
+        "ci_low": 0.0598,
+        "ci_high": 0.0586
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 0.2046,
+        "ci_low": 0.0650,
+        "ci_high": 0.0581
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 0.2046,
+        "ci_low": 0.0595,
+        "ci_high": 0.0560
+      },
+      {
+        "system_id": "F",
+        "score": 0.2046,
+        "ci_low": 0.0604,
+        "ci_high": 0.0555
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 0.2046,
+        "ci_low": 0.0637,
+        "ci_high": 0.0568
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 0.2046,
+        "ci_low": 0.0607,
+        "ci_high": 0.0597
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 0.2046,
+        "ci_low": 0.0598,
+        "ci_high": 0.0626
+      },
+      {
+        "system_id": "J",
+        "score": 0.2046,
+        "ci_low": 0.0628,
+        "ci_high": 0.0574
+      },
+      {
+        "system_id": "K",
+        "score": 0.2046,
+        "ci_low": 0.0582,
+        "ci_high": 0.0556
+      },
+      {
+        "system_id": "L",
+        "score": 0.2046,
+        "ci_low": 0.0627,
+        "ci_high": 0.0558
+      },
+      {
+        "system_id": "M*",
+        "score": 0.2046,
+        "ci_low": 0.0560,
+        "ci_high": 0.0573
+      },
+      {
+        "system_id": "IKUN",
+        "score": 0.2046,
+        "ci_low": 0.0556,
+        "ci_high": 0.0576
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.2046,
+        "ci_low": 0.0591,
+        "ci_high": 0.0567
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.2046,
+        "ci_low": 0.0566,
+        "ci_high": 0.0574
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.2046,
+        "ci_low": 0.0605,
+        "ci_high": 0.0599
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.2046,
+        "ci_low": 0.0571,
+        "ci_high": 0.0593
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.2046,
+        "ci_low": 0.0650,
+        "ci_high": 0.0537
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 0.2046,
+        "ci_low": 0.0607,
+        "ci_high": 0.0541
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 0.2046,
+        "ci_low": 0.0527,
+        "ci_high": 0.0558
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.2046,
+        "ci_low": 0.0603,
+        "ci_high": 0.0534
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.2046,
+        "ci_low": 0.0615,
+        "ci_high": 0.0577
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.2046,
+        "ci_low": 0.0551,
+        "ci_high": 0.0571
+      },
+      {
+        "system_id": "refB",
+        "score": 0.2046,
+        "ci_low": 0.0584,
+        "ci_high": 0.0530
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 0.2046,
+        "ci_low": 0.0567,
+        "ci_high": 0.0555
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.2046,
+        "ci_low": 0.0615,
+        "ci_high": 0.0545
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 0.2046,
+        "ci_low": 0.0627,
+        "ci_high": 0.0592
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 0.2046,
+        "ci_low": 0.0577,
+        "ci_high": 0.0628
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.2046,
+        "ci_low": 0.0590,
+        "ci_high": 0.0558
+      }
+    ]
+  },
+  {
+    "metric": "spBLEU",
+    "langpair": "en-de",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 1.0061,
+        "ci_low": 0.1271,
+        "ci_high": 0.1345
+      },
+      {
+        "system_id": "B (50k)",
+        "score": 2.9524,
+        "ci_low": 0.3684,
+        "ci_high": 0.3838
+      },
+      {
+        "system_id": "C",
+        "score": 3.4609,
+        "ci_low": 0.4049,
+        "ci_high": 0.4384
+      },
+      {
+        "system_id": "D (50k)",
+        "score": 4.7701,
+        "ci_low": 0.7671,
+        "ci_high": 0.8415
+      },
+      {
+        "system_id": "E (200k)",
+        "score": 5.9954,
+        "ci_low": 0.8208,
+        "ci_high": 0.8609
+      },
+      {
+        "system_id": "F",
+        "score": 7.2737,
+        "ci_low": 1.0877,
+        "ci_high": 1.2283
+      },
+      {
+        "system_id": "G (200k)",
+        "score": 9.3105,
+        "ci_low": 1.3038,
+        "ci_high": 1.2839
+      },
+      {
+        "system_id": "H (400k)",
+        "score": 10.3146,
+        "ci_low": 1.2707,
+        "ci_high": 1.3807
+      },
+      {
+        "system_id": "I (400k)",
+        "score": 11.6945,
+        "ci_low": 1.5714,
+        "ci_high": 1.4847
+      },
+      {
+        "system_id": "J",
+        "score": 9.7016,
+        "ci_low": 1.2747,
+        "ci_high": 1.3222
+      },
+      {
+        "system_id": "K",
+        "score": 15.4647,
+        "ci_low": 1.9210,
+        "ci_high": 1.9210
+      },
+      {
+        "system_id": "L",
+        "score": 23.8413,
+        "ci_low": 2.8186,
+        "ci_high": 2.4126
+      },
+      {
+        "system_id": "M*",
+        "score": 23.0259,
+        "ci_low": 2.6953,
+        "ci_high": 3.0090
+      },
+      {
+        "system_id": "IKUN",
+        "score": 29.9265,
+        "ci_low": 2.8087,
+        "ci_high": 2.9139
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 28.8149,
+        "ci_low": 3.2325,
+        "ci_high": 3.2894
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 28.5465,
+        "ci_low": 2.5836,
+        "ci_high": 2.8266
+      },
+      {
+        "system_id": "Aya23",
+        "score": 30.9776,
+        "ci_low": 3.0695,
+        "ci_high": 3.0687
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 32.6004,
+        "ci_low": 2.9235,
+        "ci_high": 3.0817
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 32.2956,
+        "ci_low": 2.8357,
+        "ci_high": 2.9939
+      },
+      {
+        "system_id": "Mistral-Large",
+        "score": 31.7062,
+        "ci_low": 2.8898,
+        "ci_high": 2.8654
+      },
+      {
+        "system_id": "ONLINE-A",
+        "score": 35.0102,
+        "ci_low": 2.9137,
+        "ci_high": 3.1822
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 33.0572,
+        "ci_low": 2.7004,
+        "ci_high": 2.9082
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 34.7377,
+        "ci_low": 2.9292,
+        "ci_high": 3.0179
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 31.7485,
+        "ci_low": 2.2991,
+        "ci_high": 2.5918
+      },
+      {
+        "system_id": "refB",
+        "score": 26.7397,
+        "ci_low": 2.6621,
+        "ci_high": 2.5778
+      },
+      {
+        "system_id": "ONLINE-W",
+        "score": 34.7438,
+        "ci_low": 3.0824,
+        "ci_high": 3.0228
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 33.2463,
+        "ci_low": 2.9768,
+        "ci_high": 2.9308
+      },
+      {
+        "system_id": "Dubformer",
+        "score": 33.4176,
+        "ci_low": 3.0079,
+        "ci_high": 3.2122
+      },
+      {
+        "system_id": "TranssionMT",
+        "score": 34.9127,
+        "ci_low": 2.7551,
+        "ci_high": 2.9429
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 33.0923,
+        "ci_low": 2.8950,
+        "ci_high": 2.7083
+      }
+    ]
+  }
+]

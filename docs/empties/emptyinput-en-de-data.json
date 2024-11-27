@@ -1,0 +1,6002 @@
+[
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.4040215015411377",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.38039594888687134",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.16805247962474823",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.16328074038028717",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.14601413905620575",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.17535604536533356",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.20198826491832733",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.07388685643672943",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.1908629983663559",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.10694862902164459",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.06703852862119675",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.0681988075375557",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.11010155081748962",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.018137916922569275",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.05659443885087967",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.1053219884634018",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.08868114650249481",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.0340682715177536",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.11852256953716278",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.08017866313457489",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.10814633965492249",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.050383731722831726",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.02075861394405365",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.11813639104366302",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.039148248732089996",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.03273371607065201",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.08411327004432678",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.0960223451256752",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.06565847992897034",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.07402700185775757",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.14481067657470703",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.08216571807861328",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.04393984377384186",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.17395050823688507",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.19089998304843903",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.05664683133363724",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.08147221803665161",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.05133645981550217",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.12009316682815552",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.10575990378856659",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.5531814098358154",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.45149800181388855",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.5317290425300598",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.47579386830329895",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.5896252393722534",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.4218578636646271",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.4669590890407562",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.47045809030532837",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.5472599267959595",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.44583022594451904",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.7105052471160889",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.5574520230293274",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.47685232758522034",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.6893384456634521",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.6222913861274719",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.4584748148918152",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.5691149830818176",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.5452298521995544",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.485676646232605",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.6407586932182312",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.372972309589386",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.5679351687431335",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.42243272066116333",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.421798974275589",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.5309754610061646",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.5371401906013489",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.45447924733161926",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.4679661691188812",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.5072312951087952",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.5180224776268005",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.7738505005836487",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.7411966919898987",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.7462878823280334",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.7254440784454346",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.7661214470863342",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.680266261100769",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.7333749532699585",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.7469341158866882",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.7166773676872253",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.7232176661491394",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.6941940784454346",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.7951734066009521",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.7104874849319458",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.8001079559326172",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.7451208829879761",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.28065258264541626",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.8175864815711975",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.5740310549736023",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.6985409259796143",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.6149680614471436",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.8599647879600525",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.854949951171875",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.6984789371490479",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.6913766860961914",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.5992153286933899",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.8159096837043762",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.463038831949234",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.8393521308898926",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.7044994831085205",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.723169207572937",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.830346941947937",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.259150892496109",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.8337007164955139",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.6922357678413391",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.7005298137664795",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.8692582845687866",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.8545987606048584",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.8251131772994995",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.803992748260498",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.7728713750839233",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.7657888531684875",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.7632180452346802",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.6865401268005371",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.782149076461792",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.7949986457824707",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.6833524107933044",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.8223262429237366",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.7304080724716187",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.8024883270263672",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.8128365874290466",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "-6.253746525239693",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "-5.85820937968",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "-6.113813296885819",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "-5.906812071839406",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "-6.214630583762396",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "-6.071253221295479",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "-6.094696655256",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "-6.11607834183169",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "-5.910922311172528",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "-6.065008362080879",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "-9.125",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "-8.1875",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "-10.78125",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "-10.3125",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "-10.03125",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "-6.58170573",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "-6.951660155",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "-6.701904296833334",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "-7.31640625",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "-6.89453125",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "-5.535122732387306",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "-6.367094802894",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "-6.043251753073333",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "-6.7113784785",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "-7.89453125",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "-6.640625",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "-6.042219706962143",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "-6.60101394656",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "-6.351314544583333",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "-6.0407267981",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "-7.171875",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "-9.1875",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "-9.15625",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "-6.984375",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "-7.34375",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "-8.34375",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "-6.75",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "-5.80078125",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "-7.46875",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "-7.578125",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "-6.3303913746749565",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "-6.094852842081035",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "-6.177277222798682",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "-6.045939050385625",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "-6.253804409862277",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "-6.256887612418082",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "-6.260563354392",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "-6.265246432434957",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "-5.971704700072878",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "-6.150797261528375",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "-9.25",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "-8.177083333333334",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "-10.96875",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "-9.8125",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "-9.9375",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "-6.837239583333333",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "-7.22265625",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "-6.767252603333334",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "-7.5859375",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "-6.628255208333333",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "-5.900849064158611",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "-6.27538146972",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "-6.078514734975",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "-6.7175170898",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "-8.552083333333334",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "-6.48795573",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "-6.131508963092857",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "-6.31330947881",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "-7.0529759725000005",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "-5.953944614857143",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "-6.7109375",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "-8.78125",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "-8.21875",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "-7.078125",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "-7.140625",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "-8.609375",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "-6.8046875",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "-6.34375",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "-7.359375",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "-8.25",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.08006785064935684",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.09986288100481033",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.12373599410057068",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.10014278441667557",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.11850761622190475",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.10716956853866577",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.047535572201013565",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.1074005588889122",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.09482842683792114",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.12432458251714706",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.06756272912025452",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.059319932013750076",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.043400395661592484",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.11898543685674667",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.10515418648719788",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.07206408679485321",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.05865752696990967",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.05568689852952957",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.07008516788482666",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.11175069212913513",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.06704384088516235",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.03948856517672539",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.10654347389936447",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.0403720960021019",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.12429585307836533",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.1078287661075592",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.08798288553953171",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.043203458189964294",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.00845267716795206",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.035386133939027786",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.12671194970607758",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.02734914980828762",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.15826311707496643",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.035714905709028244",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.1509537547826767",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.05289507284760475",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.09107669442892075",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.06916674226522446",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.1097288504242897",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.11491318047046661",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.12010189890861511",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.14979443326592445",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.18560396879911423",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.15021425485610962",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.17776140198111534",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.16075440868735313",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.07130331359803677",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.16110079362988472",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.14224262908101082",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.18648677319288254",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.10134414955973625",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.08897991478443146",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.06510065495967865",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.17847814410924911",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.1577313132584095",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.10809611901640892",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.08798629604279995",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.08353035897016525",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.1051277294754982",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.16762609407305717",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.10056579485535622",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.05923289246857166",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.15981518849730492",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.06055814400315285",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.18644380196928978",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.16174312680959702",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.13197432830929756",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.06480520404875278",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.01267909538000822",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.05307921767234802",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.19006790220737457",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.04102378338575363",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.23739472031593323",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.05357240326702595",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.2264307662844658",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.07934263162314892",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.1366150975227356",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.10375012457370758",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.16459329798817635",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.17236978188157082",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.591439962387085",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.6568983793258667",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.6095458269119263",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.7576963305473328",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.5745976567268372",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.6411072015762329",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.7636141180992126",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.6605000495910645",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.6981091499328613",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.7214580774307251",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.9755099415779114",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.8843810558319092",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.9374868869781494",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.9732314348220825",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.9361938834190369",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.9405888915061951",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.9231026768684387",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.9123201966285706",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.9537394046783447",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.9676586985588074",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.7858215570449829",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.8731779456138611",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.7371394634246826",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.8514734506607056",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.8166030049324036",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.9112697243690491",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.8638725876808167",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.8689793348312378",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.842491090297699",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.8204025626182556",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.9783840775489807",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.9062647223472595",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.9418009519577026",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.9799522161483765",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.9771471619606018",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.9680574536323547",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.9998449683189392",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.9645255208015442",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.9685702919960022",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.9576547741889954",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "1.0018354697327911",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "1.112368030106621",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.912587512148532",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.7814658594548682",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.9203304981982976",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.3116099338168084",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "1.1622816838628645",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.8435696531789708",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.9090093540857752",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.9860182232765228",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "1.1217626390298097",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "1.091736555122022",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.9977191657105418",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "1.0363881047759782",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "1.0541922239141972",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "1.0568096867909285",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "1.031945548684577",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "1.0861106538673575",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "1.0408755039390991",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.9440286337734366",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "1.10278054647996",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "1.1534494891979836",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "1.1242065595278463",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "1.1143812273875262",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "1.052855582170442",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "1.0753390832103955",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "1.1302722339650786",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "1.1231853186465943",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "1.1557337091336444",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "1.1504433413137996",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "1.1042021659395522",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "1.1309169099717824",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "1.1158700974846187",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "1.1358743445188586",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "1.1456192769048603",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "1.1051625892220656",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "1.1382593035369115",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "1.1146460947139405",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "1.1792695572012355",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "1.1568197505544633",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "-11.791826248168945",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "-0.8191432356834412",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "-21.542491912841797",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "-19.337703704833984",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "-19.263158798217773",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "-20.044509887695312",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "-12.962444305419922",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "-17.320037841796875",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "-14.544062614440918",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "-16.234670639038086",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "-2.1430227756500244",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "-3.935945987701416",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.10088960826396942",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "-0.17525450885295868",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "1.1893945932388306",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "4.558139801025391",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "-0.9973862767219543",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "-5.50754451751709",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "-1.043505311012268",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "1.1198152303695679",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "-3.1042463779449463",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "-5.982747554779053",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "-12.094362258911133",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "-1.8391540050506592",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "-6.23697566986084",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "-2.811117172241211",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "-2.3358893394470215",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "-8.161602020263672",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "-0.5478354096412659",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "-3.0079636573791504",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "-0.5169103741645813",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "-0.2656688094139099",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "-0.3788036108016968",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "-0.12910154461860657",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.6145443320274353",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "2.0688424110412598",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "2.045841693878174",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "-0.3500310182571411",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "-0.1301749348640442",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "-0.2016289085149765",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "-11.859482765197754",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "-0.8314788937568665",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "-21.51430320739746",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "-19.245323181152344",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "-19.344270706176758",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "-20.001049041748047",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "-12.796210289001465",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "-17.307018280029297",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "-14.306087493896484",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "-16.397815704345703",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "-2.123262405395508",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "-4.010540008544922",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.10085311532020569",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "-0.23203060030937195",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "1.0684564113616943",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "4.510110855102539",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "-0.9909228086471558",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "-5.511040687561035",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "-1.0230824947357178",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "1.0365086793899536",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "-3.120910167694092",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "-5.968738079071045",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "-12.093421936035156",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "-1.8318792581558228",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "-6.257410049438477",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "-2.837735414505005",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "-2.355193614959717",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "-8.129735946655273",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "-0.5478354096412659",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "-3.0079636573791504",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "-0.5169103741645813",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "-0.2656688094139099",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "-0.3788036108016968",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "-0.12910154461860657",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.6145443320274353",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "2.0688424110412598",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "2.045841693878174",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "-0.3500310182571411",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "-0.1301749348640442",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "-0.2016289085149765",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "50.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "100.0",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "100.0",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.0",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "100.0",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.012089632485319225",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.9131955968420902",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.03285318826188929",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.05643065403965198",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "-0.0015834784665896204",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "-0.0063649687565302294",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.5534888708344511",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.06618676172941428",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.025357906164091205",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.20142013205399142",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.955171851979637",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.7027872903626161",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.8973914467430241",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.8574471447562806",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.9039389275650836",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.8736932785086398",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.9385357848807326",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.7884549547181277",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.6012002144301593",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.8044781969090846",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.5889262533962548",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.9863952911539969",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.7950555812870677",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.9894173467655031",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.8826436531854616",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.8663371501967282",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.9313967602659091",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.5385510070211258",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.9871594215748645",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "1.0122196311108462",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.9613155428309532",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.9353182750054296",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.9195661233129327",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.920632103733718",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.9382793590103843",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.9548929482226296",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.8211796723860056",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.7518037068300386",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.9689206986501276",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.9871145763240984",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "0.06563464902003237",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "0.8941298532076111",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "0.08456322399631123",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "0.10361681238912857",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "0.04422963204373971",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "0.019368674114246434",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "0.5975796830654488",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "0.08781864226464191",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "0.07885744677140817",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "0.21930608933161028",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "0.9392481217343088",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "0.6526976208360131",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "0.8807193232474665",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "0.8511729200254801",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "0.8886148468636468",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "0.8626251588734085",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "0.9211127424355375",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "0.7949820978355222",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "0.5868573555093105",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "0.8077793945964984",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "0.598262161412088",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "0.968226573324004",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "0.7544163593815609",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "0.9638820653417562",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "0.8840207947742101",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "0.869423313402935",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "0.914543085653374",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "0.5255958074191478",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "0.9691467206529232",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "0.9944811918045966",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "0.9416963348279659",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "0.9230467290873836",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "0.910747913679316",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "0.8960203407845467",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "0.9075814700114547",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "0.924393823399387",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "0.7941132751068244",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "0.7588957761100668",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "0.9417588468634761",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "0.9569491555767958",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 41,
+    "score": "23.274383544921875",
+    "src": "",
+    "ref": "",
+    "hyp": "Tierra del Sol freut sich, Ihnen in der neuen Galerie in West Hollywood die Ausstellung „Vicente Siso: Memories of the Land and Water” präsentieren zu dürfen. Der Künstler Siso nimmt bereits seit 2012 am Studio Arts Program teil, dem Jahr, in dem er seine erste eigene Ausstellung hatte. Siso wurde 1962 in Madrid geboren und wuchs in Venezuela, Trinidad und Miami auf; mit Anfang 20 zog er mit seiner Familie nach Südkalifornien um.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 42,
+    "score": "22.871198654174805",
+    "src": "",
+    "ref": "",
+    "hyp": "Die Tierra del Sol Gallery finden Sie am 7414 Santa Monica Blvd. Weitere Informationen erhalten Sie auf tierradelsolgallery.org",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 43,
+    "score": "10.246953964233398",
+    "src": "",
+    "ref": "",
+    "hyp": "Im Laufe des letzten Jahrzehnts hat sich unser Leben durch die Technik gewandelt; viele arbeiten von zu Hause aus und Sydney hat ein beeindruckendes U-Bahn- und Nahverkehrssystem erhalten. Wir können nun online shoppen, wodurch sich unsere Art des Einkaufens verändert hat, und wir haben unsere Freunde und Familie dank der Kommunikation mit dem Smartphone gefühlt noch näher bei uns. Alle diese Übergänge von einem System zu einem anderen können auch auf die Architektur übertragen werden, wenn der Planungsfokus auf eine adaptive Umnutzung und nicht unbedingt auf die Denkmalpflege gesetzt wird.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 44,
+    "score": "27.383665084838867",
+    "src": "",
+    "ref": "",
+    "hyp": "Im vergangenen Jahr hat das Weltwirtschaftsforum vorausgesagt, es würde fünf Generationen dauern, bis in allen Staaten Geschlechtergleichstellung herrsche. Die Weltbank hat sich nun zum Ziel gesetzt, diesen Zeitraum deutlich zu verkürzen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 45,
+    "score": "19.671337127685547",
+    "src": "",
+    "ref": "",
+    "hyp": "Mehr als 99 % der inländischen Weinherstellungsbetriebe seien sehr kleine bis mittelgroße Betriebe, sagte Sánchez Recarte, und stellte die Seriosität der von den Brauern vorgebrachten Argumente in Frage. Außerdem betonte er, dass sich seine Organisation darauf konzentriert habe, der Politik „relevante und geeignete“ Informationen zum eigenen Industriezweig vorzulegen.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 46,
+    "score": "11.286489486694336",
+    "src": "",
+    "ref": "",
+    "hyp": "Parlamentssprecher Mike Johnson ist im US-Kapitol am 12. Dezember 2023 in Washington D.C. zu sehen und sieht sich einer unbändigen republikanischen Konferenz gegenüber, die nicht zu einer Einigung auf der Ebene der Regierungsausgaben kommen kann. Foto von Kevin Dietsch / Getty Images",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 47,
+    "score": "15.172027587890625",
+    "src": "",
+    "ref": "",
+    "hyp": "Ein Wendepunkt für Kryptowährungen: Regulierungsbehörden lassen neue Bitcoin-ETFs zu",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 48,
+    "score": "25.9796085357666",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine 83-stündige Wartezeit in der Notaufnahme eines Krankenhauses; vier von zehn Patienten warten länger als vier Stunden; 30 Krankenwagen in einer Schlange vor einem Krankenhaus aufgereiht, die keine anderen Notrufe mehr annehmen können, Personal, das angesichts der Pflegestandards „nach den Schichten weint“ und „ein Beinahezusammenbruch der Versorgung“, wie ein Experte am Royal College of Emergency Medicine berichtet.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 49,
+    "score": "29.569473266601562",
+    "src": "",
+    "ref": "",
+    "hyp": "Eine unabhängige Kontrollinstanz wird das öffentliche Vertrauen und die datengestützte Entscheidungsfindung in einem Feld stärken, das schon zu lange ohne den Vorteil von Transparenz arbeitet. Wir fordern die Legislative dazu auf, die Empfehlungen unserer Arbeitsgruppe gesetzlich umzusetzen und die unabhängige Kontrolle der Gefängnisse in den Städten, Bezirken und Regionen unseres Bundesstaates wiederherzustellen. Menschenleben hängen davon ab.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 50,
+    "score": "20.307924270629883",
+    "src": "",
+    "ref": "",
+    "hyp": "Es muss berücksichtigt werden, dass einige in diesem Bericht aufgeführten Flugzeugmodelle – zum Beispiel die 1964 eingeführte Boeing 727 – seit Jahrzehnten auf dem Markt sind und daher viel mehr Zeit hatten als andere, eine Unfallbilanz zu summieren.",
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 51,
+    "score": "21.253589630126953",
+    "src": "",
+    "ref": "",
+    "hyp": "Berlin",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 52,
+    "score": "21.479785919189453",
+    "src": "",
+    "ref": "",
+    "hyp": "Pfirsiche",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 53,
+    "score": "1.3373281955718994",
+    "src": "",
+    "ref": "",
+    "hyp": "Sandwich",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 54,
+    "score": "34.294281005859375",
+    "src": "",
+    "ref": "",
+    "hyp": "Jahr",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 55,
+    "score": "43.26340866088867",
+    "src": "",
+    "ref": "",
+    "hyp": "Computer",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 56,
+    "score": "11.520045280456543",
+    "src": "",
+    "ref": "",
+    "hyp": "Kartoffel",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 57,
+    "score": "26.21700668334961",
+    "src": "",
+    "ref": "",
+    "hyp": "Saft",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 58,
+    "score": "7.487187385559082",
+    "src": "",
+    "ref": "",
+    "hyp": "Kellner",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 59,
+    "score": "15.569428443908691",
+    "src": "",
+    "ref": "",
+    "hyp": "Reifen",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 60,
+    "score": "32.96905517578125",
+    "src": "",
+    "ref": "",
+    "hyp": "fahren",
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 61,
+    "score": "22.696414947509766",
+    "src": "",
+    "ref": "",
+    "hyp": "Das Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 62,
+    "score": "19.220102310180664",
+    "src": "",
+    "ref": "",
+    "hyp": "Kyoto-Protokoll",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 63,
+    "score": "38.91636657714844",
+    "src": "",
+    "ref": "",
+    "hyp": "die Weltfinanzkrise 2007–2008",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 64,
+    "score": "8.81014347076416",
+    "src": "",
+    "ref": "",
+    "hyp": "Erdnussbutter",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 65,
+    "score": "9.806330680847168",
+    "src": "",
+    "ref": "",
+    "hyp": "das Unterhaus",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 66,
+    "score": "34.31436538696289",
+    "src": "",
+    "ref": "",
+    "hyp": "Wahlsystem",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 67,
+    "score": "21.660499572753906",
+    "src": "",
+    "ref": "",
+    "hyp": "Maschinelle Übersetzung",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 68,
+    "score": "16.685091018676758",
+    "src": "",
+    "ref": "",
+    "hyp": "Achtelfinale",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 69,
+    "score": "11.315384864807129",
+    "src": "",
+    "ref": "",
+    "hyp": "Lebenshaltungskostenindex",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 70,
+    "score": "-1.63040030002594",
+    "src": "",
+    "ref": "",
+    "hyp": "Gebärdensprache",
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 71,
+    "score": "32.3000602722168",
+    "src": "",
+    "ref": "",
+    "hyp": "\"",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 72,
+    "score": "52.11616516113281",
+    "src": "",
+    "ref": "",
+    "hyp": ".",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 73,
+    "score": "46.96311950683594",
+    "src": "",
+    "ref": "",
+    "hyp": ",",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 74,
+    "score": "53.04686737060547",
+    "src": "",
+    "ref": "",
+    "hyp": ":",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 75,
+    "score": "58.229270935058594",
+    "src": "",
+    "ref": "",
+    "hyp": "-",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 76,
+    "score": "33.300025939941406",
+    "src": "",
+    "ref": "",
+    "hyp": "$",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 77,
+    "score": "37.70109176635742",
+    "src": "",
+    "ref": "",
+    "hyp": "#",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 78,
+    "score": "37.86583709716797",
+    "src": "",
+    "ref": "",
+    "hyp": "@",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 79,
+    "score": "45.68408966064453",
+    "src": "",
+    "ref": "",
+    "hyp": "?",
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "langpair": "en-de",
+    "segment_id": 80,
+    "score": "35.249385833740234",
+    "src": "",
+    "ref": "",
+    "hyp": "!",
+    "type": "empty|empty|punct"
+  }
+]
