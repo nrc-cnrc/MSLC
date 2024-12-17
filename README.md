@@ -7,6 +7,8 @@ This repository contains data and additional figures associated with the Metric 
 ## Structure
 The repository contains a directory for each MSLC paper: `2023/` and `2024/`, each of which contains the a README file along with the data and figures.
 
+For MSLC24 interactive figures, see: [https://nrc-cnrc.github.io/MSLC/2024/interactive/charts.html](https://nrc-cnrc.github.io/MSLC/2024/interactive/charts.html)
+
 ## Licence
 The contents of this repository are released under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
 
