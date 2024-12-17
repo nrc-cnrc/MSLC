@@ -67,7 +67,9 @@ Within the `MSLC-B/` directory, you will find a subdirectory for each language p
       - `LA` or `Spain`: for the `language-variants` category this indicates whether the term is commonly used in Spain or Latin America (LA)
 
 ## Figures
-To be uploaded shortly.
+For interactive figures, see: [https://nrc-cnrc.github.io/MSLC/2024/interactive/charts.html](https://nrc-cnrc.github.io/MSLC/2024/interactive/charts.html)
+
+Others to be uploaded shortly.
 
 ## Licence
 The contents of this repository are released under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
