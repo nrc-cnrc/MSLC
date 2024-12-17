@@ -1,0 +1,2947 @@
+[
+  {
+    "metric": "BERTScore",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.4899,
+        "ci_low": 0.0031,
+        "ci_high": 0.0033
+      },
+      {
+        "system_id": "B",
+        "score": 0.6322,
+        "ci_low": 0.0084,
+        "ci_high": 0.009
+      },
+      {
+        "system_id": "C",
+        "score": 0.7011,
+        "ci_low": 0.0092,
+        "ci_high": 0.0095
+      },
+      {
+        "system_id": "D",
+        "score": 0.7567,
+        "ci_low": 0.0078,
+        "ci_high": 0.0078
+      },
+      {
+        "system_id": "E",
+        "score": 0.7829,
+        "ci_low": 0.0077,
+        "ci_high": 0.008
+      },
+      {
+        "system_id": "F*",
+        "score": 0.8164,
+        "ci_low": 0.0069,
+        "ci_high": 0.007
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8791,
+        "ci_low": 0.0065,
+        "ci_high": 0.0066
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8108,
+        "ci_low": 0.007,
+        "ci_high": 0.0074
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8451,
+        "ci_low": 0.0065,
+        "ci_high": 0.0064
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.8412,
+        "ci_low": 0.0059,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.8531,
+        "ci_low": 0.0058,
+        "ci_high": 0.0061
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8451,
+        "ci_low": 0.0061,
+        "ci_high": 0.0065
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8519,
+        "ci_low": 0.0061,
+        "ci_high": 0.0062
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8589,
+        "ci_low": 0.0067,
+        "ci_high": 0.0061
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8578,
+        "ci_low": 0.0057,
+        "ci_high": 0.0054
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.8656,
+        "ci_low": 0.0062,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8665,
+        "ci_low": 0.0059,
+        "ci_high": 0.0053
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8619,
+        "ci_low": 0.0061,
+        "ci_high": 0.0061
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8644,
+        "ci_low": 0.0058,
+        "ci_high": 0.0062
+      }
+    ]
+  },
+  {
+    "metric": "BLEU",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.5049,
+        "ci_low": 0.094,
+        "ci_high": 0.1118
+      },
+      {
+        "system_id": "B",
+        "score": 6.927,
+        "ci_low": 1.388,
+        "ci_high": 1.7716
+      },
+      {
+        "system_id": "C",
+        "score": 13.1242,
+        "ci_low": 1.6533,
+        "ci_high": 1.8427
+      },
+      {
+        "system_id": "D",
+        "score": 18.2526,
+        "ci_low": 1.9357,
+        "ci_high": 1.9756
+      },
+      {
+        "system_id": "E",
+        "score": 21.8461,
+        "ci_low": 2.0106,
+        "ci_high": 2.0569
+      },
+      {
+        "system_id": "F*",
+        "score": 24.2157,
+        "ci_low": 2.0767,
+        "ci_high": 2.0853
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 49.6842,
+        "ci_low": 2.2673,
+        "ci_high": 2.303
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 26.6921,
+        "ci_low": 1.6812,
+        "ci_high": 1.7601
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 35.1057,
+        "ci_low": 1.9652,
+        "ci_high": 2.1075
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 32.1156,
+        "ci_low": 1.8002,
+        "ci_high": 1.9353
+      },
+      {
+        "system_id": "Team-J",
+        "score": 35.6784,
+        "ci_low": 1.8179,
+        "ci_high": 1.862
+      },
+      {
+        "system_id": "Aya23",
+        "score": 35.8759,
+        "ci_low": 2.1432,
+        "ci_high": 2.2033
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 38.661,
+        "ci_low": 1.8536,
+        "ci_high": 2.0906
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 39.011,
+        "ci_low": 2.0109,
+        "ci_high": 2.0929
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 39.4995,
+        "ci_low": 2.0309,
+        "ci_high": 1.8681
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 43.211,
+        "ci_low": 1.9824,
+        "ci_high": 2.1695
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 42.8354,
+        "ci_low": 2.2185,
+        "ci_high": 2.1559
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 40.3817,
+        "ci_low": 2.0155,
+        "ci_high": 2.1619
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 41.5396,
+        "ci_low": 1.9073,
+        "ci_high": 2.0671
+      }
+    ]
+  },
+  {
+    "metric": "BLEURT-20",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.0476,
+        "ci_low": 0.0093,
+        "ci_high": 0.0096
+      },
+      {
+        "system_id": "B",
+        "score": 0.2014,
+        "ci_low": 0.0151,
+        "ci_high": 0.0177
+      },
+      {
+        "system_id": "C",
+        "score": 0.2988,
+        "ci_low": 0.021,
+        "ci_high": 0.0214
+      },
+      {
+        "system_id": "D",
+        "score": 0.399,
+        "ci_low": 0.0207,
+        "ci_high": 0.0239
+      },
+      {
+        "system_id": "E",
+        "score": 0.4593,
+        "ci_low": 0.02,
+        "ci_high": 0.0215
+      },
+      {
+        "system_id": "F*",
+        "score": 0.5552,
+        "ci_low": 0.0178,
+        "ci_high": 0.0189
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.6827,
+        "ci_low": 0.0156,
+        "ci_high": 0.0149
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.6351,
+        "ci_low": 0.0141,
+        "ci_high": 0.0155
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.6719,
+        "ci_low": 0.0126,
+        "ci_high": 0.013
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.6691,
+        "ci_low": 0.013,
+        "ci_high": 0.0124
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.6911,
+        "ci_low": 0.0116,
+        "ci_high": 0.0122
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.666,
+        "ci_low": 0.0136,
+        "ci_high": 0.0137
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.685,
+        "ci_low": 0.0123,
+        "ci_high": 0.0131
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.7128,
+        "ci_low": 0.0114,
+        "ci_high": 0.0121
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.6969,
+        "ci_low": 0.0121,
+        "ci_high": 0.012
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.7071,
+        "ci_low": 0.0115,
+        "ci_high": 0.0114
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.7111,
+        "ci_low": 0.0104,
+        "ci_high": 0.011
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.7016,
+        "ci_low": 0.012,
+        "ci_high": 0.0114
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.7043,
+        "ci_low": 0.0123,
+        "ci_high": 0.0131
+      }
+    ]
+  },
+  {
+    "metric": "COMET-22",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.2893,
+        "ci_low": 0.0073,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "B",
+        "score": 0.4368,
+        "ci_low": 0.0124,
+        "ci_high": 0.0132
+      },
+      {
+        "system_id": "C",
+        "score": 0.5216,
+        "ci_low": 0.0166,
+        "ci_high": 0.0177
+      },
+      {
+        "system_id": "D",
+        "score": 0.6274,
+        "ci_low": 0.0152,
+        "ci_high": 0.0164
+      },
+      {
+        "system_id": "E",
+        "score": 0.6877,
+        "ci_low": 0.016,
+        "ci_high": 0.0148
+      },
+      {
+        "system_id": "F*",
+        "score": 0.7777,
+        "ci_low": 0.012,
+        "ci_high": 0.0123
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8682,
+        "ci_low": 0.0072,
+        "ci_high": 0.0074
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8384,
+        "ci_low": 0.0089,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8596,
+        "ci_low": 0.0068,
+        "ci_high": 0.0072
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.8663,
+        "ci_low": 0.0071,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.8877,
+        "ci_low": 0.0048,
+        "ci_high": 0.0046
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8523,
+        "ci_low": 0.0085,
+        "ci_high": 0.0074
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8674,
+        "ci_low": 0.0068,
+        "ci_high": 0.0065
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8893,
+        "ci_low": 0.0051,
+        "ci_high": 0.0048
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8733,
+        "ci_low": 0.0061,
+        "ci_high": 0.0066
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.8832,
+        "ci_low": 0.0056,
+        "ci_high": 0.0054
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8833,
+        "ci_low": 0.0051,
+        "ci_high": 0.0053
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.874,
+        "ci_low": 0.0068,
+        "ci_high": 0.0065
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8828,
+        "ci_low": 0.0055,
+        "ci_high": 0.0053
+      }
+    ]
+  },
+  {
+    "metric": "CometKiwi",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.317,
+        "ci_low": 0.0076,
+        "ci_high": 0.0079
+      },
+      {
+        "system_id": "B",
+        "score": 0.3028,
+        "ci_low": 0.0096,
+        "ci_high": 0.0115
+      },
+      {
+        "system_id": "C",
+        "score": 0.3817,
+        "ci_low": 0.0133,
+        "ci_high": 0.015
+      },
+      {
+        "system_id": "D",
+        "score": 0.4975,
+        "ci_low": 0.0138,
+        "ci_high": 0.0153
+      },
+      {
+        "system_id": "E",
+        "score": 0.5716,
+        "ci_low": 0.0153,
+        "ci_high": 0.0159
+      },
+      {
+        "system_id": "F*",
+        "score": 0.7078,
+        "ci_low": 0.0143,
+        "ci_high": 0.0134
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.7449,
+        "ci_low": 0.0128,
+        "ci_high": 0.0131
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.7459,
+        "ci_low": 0.0146,
+        "ci_high": 0.0138
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8024,
+        "ci_low": 0.0094,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.8019,
+        "ci_low": 0.01,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.8068,
+        "ci_low": 0.0095,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.7841,
+        "ci_low": 0.0106,
+        "ci_high": 0.01
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.7891,
+        "ci_low": 0.0111,
+        "ci_high": 0.0104
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8309,
+        "ci_low": 0.0069,
+        "ci_high": 0.007
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8178,
+        "ci_low": 0.0084,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.8124,
+        "ci_low": 0.0093,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8114,
+        "ci_low": 0.0103,
+        "ci_high": 0.0098
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8155,
+        "ci_low": 0.0086,
+        "ci_high": 0.0078
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8144,
+        "ci_low": 0.0095,
+        "ci_high": 0.009
+      }
+    ]
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0,
+        "ci_low": 0,
+        "ci_high": 0
+      },
+      {
+        "system_id": "B",
+        "score": 2.6941,
+        "ci_low": 1.4471,
+        "ci_high": 1.7451
+      },
+      {
+        "system_id": "C",
+        "score": 13.9373,
+        "ci_low": 2.5216,
+        "ci_high": 3
+      },
+      {
+        "system_id": "D",
+        "score": 35.3804,
+        "ci_low": 2.8784,
+        "ci_high": 3
+      },
+      {
+        "system_id": "E",
+        "score": 44.9765,
+        "ci_low": 2.8431,
+        "ci_high": 3.1608
+      },
+      {
+        "system_id": "F*",
+        "score": 67.3098,
+        "ci_low": 3.1412,
+        "ci_high": 3.1922
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 77.2157,
+        "ci_low": 2.6353,
+        "ci_high": 2.8941
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 66.4118,
+        "ci_low": 3.4431,
+        "ci_high": 3.0275
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 94.3529,
+        "ci_low": 1.4314,
+        "ci_high": 1.2431
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 88.8235,
+        "ci_low": 2.1529,
+        "ci_high": 2.051
+      },
+      {
+        "system_id": "Team-J",
+        "score": 86.8275,
+        "ci_low": 2.0784,
+        "ci_high": 2.251
+      },
+      {
+        "system_id": "Aya23",
+        "score": 88.4745,
+        "ci_low": 2.051,
+        "ci_high": 1.9647
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 92.1255,
+        "ci_low": 2.0118,
+        "ci_high": 1.9765
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 95.8706,
+        "ci_low": 1.5804,
+        "ci_high": 1.3765
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 94.9176,
+        "ci_low": 1.4863,
+        "ci_high": 1.5529
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 94.1529,
+        "ci_low": 1.6941,
+        "ci_high": 1.5373
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 96.6196,
+        "ci_low": 1.149,
+        "ci_high": 1.0745
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 97.2196,
+        "ci_low": 1.1686,
+        "ci_high": 1.0588
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 97.851,
+        "ci_low": 0.8353,
+        "ci_high": 0.7569
+      }
+    ]
+  },
+  {
+    "metric": "MEE4",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.0896,
+        "ci_low": 0.0088,
+        "ci_high": 0.0089
+      },
+      {
+        "system_id": "B",
+        "score": 0.4362,
+        "ci_low": 0.0163,
+        "ci_high": 0.0159
+      },
+      {
+        "system_id": "C",
+        "score": 0.5501,
+        "ci_low": 0.0141,
+        "ci_high": 0.0145
+      },
+      {
+        "system_id": "D",
+        "score": 0.6218,
+        "ci_low": 0.0112,
+        "ci_high": 0.0106
+      },
+      {
+        "system_id": "E",
+        "score": 0.6473,
+        "ci_low": 0.0117,
+        "ci_high": 0.0115
+      },
+      {
+        "system_id": "F*",
+        "score": 0.6812,
+        "ci_low": 0.0092,
+        "ci_high": 0.0091
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.7159,
+        "ci_low": 0.0078,
+        "ci_high": 0.0084
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.6567,
+        "ci_low": 0.0084,
+        "ci_high": 0.0079
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.7003,
+        "ci_low": 0.0077,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.6941,
+        "ci_low": 0.0071,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.7016,
+        "ci_low": 0.0063,
+        "ci_high": 0.0061
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.7005,
+        "ci_low": 0.008,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.6994,
+        "ci_low": 0.0074,
+        "ci_high": 0.0084
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.7093,
+        "ci_low": 0.0076,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.7072,
+        "ci_low": 0.0076,
+        "ci_high": 0.0079
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.7115,
+        "ci_low": 0.0072,
+        "ci_high": 0.0085
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.7149,
+        "ci_low": 0.0075,
+        "ci_high": 0.0083
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.7139,
+        "ci_low": 0.0085,
+        "ci_high": 0.0083
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.7217,
+        "ci_low": 0.0073,
+        "ci_high": 0.008
+      }
+    ]
+  },
+  {
+    "metric": "MQM",
+    "values": [
+      {
+        "system_id": "F*",
+        "score": -4.0063,
+        "ci_low": 0.7122,
+        "ci_high": 0.7345
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -3.7208,
+        "ci_low": 0.8804,
+        "ci_high": 0.7208
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -3.4463,
+        "ci_low": 0.7631,
+        "ci_high": 0.7024
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -2.158,
+        "ci_low": 0.6086,
+        "ci_high": 0.5482
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -2.1071,
+        "ci_low": 0.6667,
+        "ci_high": 0.5533
+      },
+      {
+        "system_id": "Team-J",
+        "score": -2.0251,
+        "ci_low": 0.4878,
+        "ci_high": 0.4443
+      },
+      {
+        "system_id": "Aya23",
+        "score": -1.8608,
+        "ci_low": 0.4976,
+        "ci_high": 0.4282
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -1.2773,
+        "ci_low": 0.3792,
+        "ci_high": 0.3047
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -1.1624,
+        "ci_low": 0.2745,
+        "ci_high": 0.2741
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -1.1357,
+        "ci_low": 0.3682,
+        "ci_high": 0.3114
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -1.058,
+        "ci_low": 0.4824,
+        "ci_high": 0.3792
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -0.8376,
+        "ci_low": 0.2345,
+        "ci_high": 0.2204
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -0.818,
+        "ci_low": 0.2482,
+        "ci_high": 0.2475
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -0.7565,
+        "ci_low": 0.3173,
+        "ci_high": 0.2227
+      }
+    ]
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -20.4714,
+        "ci_low": 0.3942,
+        "ci_high": 0.4435
+      },
+      {
+        "system_id": "B",
+        "score": -16.4196,
+        "ci_low": 0.4196,
+        "ci_high": 0.4323
+      },
+      {
+        "system_id": "C",
+        "score": -14.6657,
+        "ci_low": 0.4345,
+        "ci_high": 0.4633
+      },
+      {
+        "system_id": "D",
+        "score": -12.0911,
+        "ci_low": 0.3983,
+        "ci_high": 0.4445
+      },
+      {
+        "system_id": "E",
+        "score": -10.6497,
+        "ci_low": 0.4344,
+        "ci_high": 0.4096
+      },
+      {
+        "system_id": "F*",
+        "score": -7.8872,
+        "ci_low": 0.3731,
+        "ci_high": 0.3859
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -5.4861,
+        "ci_low": 0.2583,
+        "ci_high": 0.2713
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -5.928,
+        "ci_low": 0.3196,
+        "ci_high": 0.3097
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -5.1545,
+        "ci_low": 0.2384,
+        "ci_high": 0.2194
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -5.3631,
+        "ci_low": 0.2283,
+        "ci_high": 0.2297
+      },
+      {
+        "system_id": "Team-J",
+        "score": -4.5953,
+        "ci_low": 0.1856,
+        "ci_high": 0.2032
+      },
+      {
+        "system_id": "Aya23",
+        "score": -5.3979,
+        "ci_low": 0.2257,
+        "ci_high": 0.2478
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -4.846,
+        "ci_low": 0.2167,
+        "ci_high": 0.2068
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -4.1916,
+        "ci_low": 0.1694,
+        "ci_high": 0.18
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -4.6489,
+        "ci_low": 0.1893,
+        "ci_high": 0.1916
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -4.2488,
+        "ci_low": 0.1889,
+        "ci_high": 0.1702
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -4.2388,
+        "ci_low": 0.1708,
+        "ci_high": 0.1834
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -4.6162,
+        "ci_low": 0.1913,
+        "ci_high": 0.1851
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -4.3776,
+        "ci_low": 0.178,
+        "ci_high": 0.1696
+      }
+    ]
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -19.8744,
+        "ci_low": 0.3967,
+        "ci_high": 0.4671
+      },
+      {
+        "system_id": "B",
+        "score": -16.3596,
+        "ci_low": 0.382,
+        "ci_high": 0.4395
+      },
+      {
+        "system_id": "C",
+        "score": -14.693,
+        "ci_low": 0.4209,
+        "ci_high": 0.4738
+      },
+      {
+        "system_id": "D",
+        "score": -12.0514,
+        "ci_low": 0.4012,
+        "ci_high": 0.4375
+      },
+      {
+        "system_id": "E",
+        "score": -10.5472,
+        "ci_low": 0.3703,
+        "ci_high": 0.4077
+      },
+      {
+        "system_id": "F*",
+        "score": -7.8315,
+        "ci_low": 0.3648,
+        "ci_high": 0.3684
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -5.6974,
+        "ci_low": 0.2561,
+        "ci_high": 0.2574
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -6.266,
+        "ci_low": 0.356,
+        "ci_high": 0.3387
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -5.1906,
+        "ci_low": 0.2214,
+        "ci_high": 0.2178
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -5.4556,
+        "ci_low": 0.2274,
+        "ci_high": 0.2487
+      },
+      {
+        "system_id": "Team-J",
+        "score": -4.8806,
+        "ci_low": 0.2068,
+        "ci_high": 0.202
+      },
+      {
+        "system_id": "Aya23",
+        "score": -5.4822,
+        "ci_low": 0.2273,
+        "ci_high": 0.2369
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -5.1093,
+        "ci_low": 0.2297,
+        "ci_high": 0.2398
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -4.4399,
+        "ci_low": 0.1836,
+        "ci_high": 0.1969
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -4.8566,
+        "ci_low": 0.2071,
+        "ci_high": 0.1908
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -4.4666,
+        "ci_low": 0.1896,
+        "ci_high": 0.1862
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -4.5141,
+        "ci_low": 0.1867,
+        "ci_high": 0.1899
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -4.8293,
+        "ci_low": 0.1897,
+        "ci_high": 0.1917
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -4.6082,
+        "ci_low": 0.1771,
+        "ci_high": 0.1782
+      }
+    ]
+  },
+  {
+    "metric": "PrismRefMedium",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -2.8462,
+        "ci_low": 0.1474,
+        "ci_high": 0.1337
+      },
+      {
+        "system_id": "B",
+        "score": -3.0442,
+        "ci_low": 0.0934,
+        "ci_high": 0.0924
+      },
+      {
+        "system_id": "C",
+        "score": -2.5946,
+        "ci_low": 0.0809,
+        "ci_high": 0.0787
+      },
+      {
+        "system_id": "D",
+        "score": -2.1679,
+        "ci_low": 0.0844,
+        "ci_high": 0.0808
+      },
+      {
+        "system_id": "E",
+        "score": -1.9209,
+        "ci_low": 0.0699,
+        "ci_high": 0.0704
+      },
+      {
+        "system_id": "F*",
+        "score": -1.556,
+        "ci_low": 0.0599,
+        "ci_high": 0.0687
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -1.2004,
+        "ci_low": 0.0622,
+        "ci_high": 0.0639
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -1.6041,
+        "ci_low": 0.0626,
+        "ci_high": 0.0594
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -1.296,
+        "ci_low": 0.057,
+        "ci_high": 0.0571
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -1.3343,
+        "ci_low": 0.0556,
+        "ci_high": 0.0544
+      },
+      {
+        "system_id": "Team-J",
+        "score": -1.2972,
+        "ci_low": 0.0481,
+        "ci_high": 0.0525
+      },
+      {
+        "system_id": "Aya23",
+        "score": -1.3376,
+        "ci_low": 0.0554,
+        "ci_high": 0.0564
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -1.2833,
+        "ci_low": 0.0507,
+        "ci_high": 0.0546
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -1.2211,
+        "ci_low": 0.0529,
+        "ci_high": 0.0523
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -1.2058,
+        "ci_low": 0.0526,
+        "ci_high": 0.0549
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -1.124,
+        "ci_low": 0.0549,
+        "ci_high": 0.0543
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -1.1665,
+        "ci_low": 0.0533,
+        "ci_high": 0.0515
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -1.1902,
+        "ci_low": 0.0533,
+        "ci_high": 0.0536
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -1.1561,
+        "ci_low": 0.0542,
+        "ci_high": 0.0497
+      }
+    ]
+  },
+  {
+    "metric": "PrismRefSmall",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -2.9907,
+        "ci_low": 0.1503,
+        "ci_high": 0.1225
+      },
+      {
+        "system_id": "B",
+        "score": -3.295,
+        "ci_low": 0.0894,
+        "ci_high": 0.0894
+      },
+      {
+        "system_id": "C",
+        "score": -2.8144,
+        "ci_low": 0.0805,
+        "ci_high": 0.0841
+      },
+      {
+        "system_id": "D",
+        "score": -2.4172,
+        "ci_low": 0.0783,
+        "ci_high": 0.0857
+      },
+      {
+        "system_id": "E",
+        "score": -2.1614,
+        "ci_low": 0.0837,
+        "ci_high": 0.0826
+      },
+      {
+        "system_id": "F*",
+        "score": -1.772,
+        "ci_low": 0.0666,
+        "ci_high": 0.0696
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -1.34,
+        "ci_low": 0.0666,
+        "ci_high": 0.0653
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -1.7697,
+        "ci_low": 0.0653,
+        "ci_high": 0.0698
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -1.4791,
+        "ci_low": 0.0602,
+        "ci_high": 0.0609
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -1.5164,
+        "ci_low": 0.0584,
+        "ci_high": 0.0616
+      },
+      {
+        "system_id": "Team-J",
+        "score": -1.45,
+        "ci_low": 0.0586,
+        "ci_high": 0.0545
+      },
+      {
+        "system_id": "Aya23",
+        "score": -1.5166,
+        "ci_low": 0.0631,
+        "ci_high": 0.0648
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -1.4532,
+        "ci_low": 0.0612,
+        "ci_high": 0.0659
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -1.3882,
+        "ci_low": 0.0574,
+        "ci_high": 0.061
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -1.3628,
+        "ci_low": 0.0526,
+        "ci_high": 0.0626
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -1.2769,
+        "ci_low": 0.0576,
+        "ci_high": 0.0581
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -1.3239,
+        "ci_low": 0.0576,
+        "ci_high": 0.057
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -1.3367,
+        "ci_low": 0.0582,
+        "ci_high": 0.0594
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -1.3036,
+        "ci_low": 0.0592,
+        "ci_high": 0.0565
+      }
+    ]
+  },
+  {
+    "metric": "XCOMET",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -0.0031,
+        "ci_low": 0.0074,
+        "ci_high": 0.0095
+      },
+      {
+        "system_id": "B",
+        "score": 0.0401,
+        "ci_low": 0.0202,
+        "ci_high": 0.0236
+      },
+      {
+        "system_id": "C",
+        "score": 0.1392,
+        "ci_low": 0.0292,
+        "ci_high": 0.0316
+      },
+      {
+        "system_id": "D",
+        "score": 0.2994,
+        "ci_low": 0.0304,
+        "ci_high": 0.0324
+      },
+      {
+        "system_id": "E",
+        "score": 0.4009,
+        "ci_low": 0.0307,
+        "ci_high": 0.0315
+      },
+      {
+        "system_id": "F*",
+        "score": 0.5562,
+        "ci_low": 0.0276,
+        "ci_high": 0.0302
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.6016,
+        "ci_low": 0.0281,
+        "ci_high": 0.0305
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.6313,
+        "ci_low": 0.0292,
+        "ci_high": 0.0263
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.7141,
+        "ci_low": 0.0223,
+        "ci_high": 0.0213
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.7082,
+        "ci_low": 0.0205,
+        "ci_high": 0.0222
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.7064,
+        "ci_low": 0.0233,
+        "ci_high": 0.02
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.692,
+        "ci_low": 0.0235,
+        "ci_high": 0.0221
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.7206,
+        "ci_low": 0.0219,
+        "ci_high": 0.0225
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.7879,
+        "ci_low": 0.0202,
+        "ci_high": 0.0188
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.7509,
+        "ci_low": 0.0185,
+        "ci_high": 0.0193
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.7674,
+        "ci_low": 0.0182,
+        "ci_high": 0.02
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.7757,
+        "ci_low": 0.0191,
+        "ci_high": 0.0191
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.7439,
+        "ci_low": 0.0196,
+        "ci_high": 0.0191
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.7644,
+        "ci_low": 0.0184,
+        "ci_high": 0.0189
+      }
+    ]
+  },
+  {
+    "metric": "XCOMET-QE",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.0007,
+        "ci_low": 0.0061,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "B",
+        "score": 0.0511,
+        "ci_low": 0.0212,
+        "ci_high": 0.021
+      },
+      {
+        "system_id": "C",
+        "score": 0.1466,
+        "ci_low": 0.0282,
+        "ci_high": 0.0305
+      },
+      {
+        "system_id": "D",
+        "score": 0.2881,
+        "ci_low": 0.0295,
+        "ci_high": 0.0317
+      },
+      {
+        "system_id": "E",
+        "score": 0.3741,
+        "ci_low": 0.0305,
+        "ci_high": 0.0304
+      },
+      {
+        "system_id": "F*",
+        "score": 0.5163,
+        "ci_low": 0.0292,
+        "ci_high": 0.0298
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.4949,
+        "ci_low": 0.0289,
+        "ci_high": 0.0284
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.5402,
+        "ci_low": 0.0289,
+        "ci_high": 0.0269
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.6498,
+        "ci_low": 0.0236,
+        "ci_high": 0.0247
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.6391,
+        "ci_low": 0.0239,
+        "ci_high": 0.0235
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.5704,
+        "ci_low": 0.0261,
+        "ci_high": 0.028
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.6152,
+        "ci_low": 0.0252,
+        "ci_high": 0.0238
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.6369,
+        "ci_low": 0.0246,
+        "ci_high": 0.0251
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.6847,
+        "ci_low": 0.0261,
+        "ci_high": 0.0236
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.6675,
+        "ci_low": 0.0217,
+        "ci_high": 0.024
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.6491,
+        "ci_low": 0.0258,
+        "ci_high": 0.0289
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.6709,
+        "ci_low": 0.023,
+        "ci_high": 0.0245
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.6531,
+        "ci_low": 0.0244,
+        "ci_high": 0.0232
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.6662,
+        "ci_low": 0.0242,
+        "ci_high": 0.0239
+      }
+    ]
+  },
+  {
+    "metric": "XLsimMqm",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.8586,
+        "ci_low": 0.004,
+        "ci_high": 0.0039
+      },
+      {
+        "system_id": "B",
+        "score": 0.9107,
+        "ci_low": 0.0036,
+        "ci_high": 0.0035
+      },
+      {
+        "system_id": "C",
+        "score": 0.929,
+        "ci_low": 0.0036,
+        "ci_high": 0.0035
+      },
+      {
+        "system_id": "D",
+        "score": 0.9407,
+        "ci_low": 0.0026,
+        "ci_high": 0.0027
+      },
+      {
+        "system_id": "E",
+        "score": 0.9429,
+        "ci_low": 0.0027,
+        "ci_high": 0.0026
+      },
+      {
+        "system_id": "F*",
+        "score": 0.947,
+        "ci_low": 0.0028,
+        "ci_high": 0.0026
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.9478,
+        "ci_low": 0.002,
+        "ci_high": 0.0021
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.9443,
+        "ci_low": 0.0023,
+        "ci_high": 0.0023
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.9475,
+        "ci_low": 0.0024,
+        "ci_high": 0.0022
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.9454,
+        "ci_low": 0.0025,
+        "ci_high": 0.0026
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.9485,
+        "ci_low": 0.0021,
+        "ci_high": 0.002
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.9486,
+        "ci_low": 0.0022,
+        "ci_high": 0.0023
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.9475,
+        "ci_low": 0.0027,
+        "ci_high": 0.0025
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.9463,
+        "ci_low": 0.0026,
+        "ci_high": 0.0025
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.9477,
+        "ci_low": 0.0024,
+        "ci_high": 0.0023
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.9453,
+        "ci_low": 0.0027,
+        "ci_high": 0.0026
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.9448,
+        "ci_low": 0.0023,
+        "ci_high": 0.0024
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.9489,
+        "ci_low": 0.0021,
+        "ci_high": 0.0022
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.947,
+        "ci_low": 0.0022,
+        "ci_high": 0.0023
+      }
+    ]
+  },
+  {
+    "metric": "YiSi-1",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.4441,
+        "ci_low": 0.0041,
+        "ci_high": 0.0039
+      },
+      {
+        "system_id": "B",
+        "score": 0.5999,
+        "ci_low": 0.0084,
+        "ci_high": 0.0094
+      },
+      {
+        "system_id": "C",
+        "score": 0.6769,
+        "ci_low": 0.0097,
+        "ci_high": 0.0102
+      },
+      {
+        "system_id": "D",
+        "score": 0.7376,
+        "ci_low": 0.0091,
+        "ci_high": 0.0089
+      },
+      {
+        "system_id": "E",
+        "score": 0.7671,
+        "ci_low": 0.0089,
+        "ci_high": 0.0087
+      },
+      {
+        "system_id": "F*",
+        "score": 0.8056,
+        "ci_low": 0.0075,
+        "ci_high": 0.0078
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.8752,
+        "ci_low": 0.0064,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.8032,
+        "ci_low": 0.0077,
+        "ci_high": 0.0081
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.8425,
+        "ci_low": 0.0069,
+        "ci_high": 0.0069
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.8347,
+        "ci_low": 0.0067,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.8509,
+        "ci_low": 0.0059,
+        "ci_high": 0.0054
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.8426,
+        "ci_low": 0.0062,
+        "ci_high": 0.0064
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.8512,
+        "ci_low": 0.0063,
+        "ci_high": 0.0068
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.8588,
+        "ci_low": 0.0067,
+        "ci_high": 0.0064
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.8582,
+        "ci_low": 0.0062,
+        "ci_high": 0.0064
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.8651,
+        "ci_low": 0.006,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.8677,
+        "ci_low": 0.0057,
+        "ci_high": 0.0057
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.8621,
+        "ci_low": 0.007,
+        "ci_high": 0.0067
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.8661,
+        "ci_low": 0.006,
+        "ci_high": 0.0061
+      }
+    ]
+  },
+  {
+    "metric": "chrF",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 1.9292,
+        "ci_low": 0.3369,
+        "ci_high": 0.4486
+      },
+      {
+        "system_id": "B",
+        "score": 9.6457,
+        "ci_low": 1.4225,
+        "ci_high": 1.4977
+      },
+      {
+        "system_id": "C",
+        "score": 15.1093,
+        "ci_low": 1.6955,
+        "ci_high": 1.7785
+      },
+      {
+        "system_id": "D",
+        "score": 19.7228,
+        "ci_low": 1.7584,
+        "ci_high": 1.7581
+      },
+      {
+        "system_id": "E",
+        "score": 22.5212,
+        "ci_low": 1.801,
+        "ci_high": 1.9824
+      },
+      {
+        "system_id": "F*",
+        "score": 24.3999,
+        "ci_low": 1.8332,
+        "ci_high": 2.2108
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 46.4472,
+        "ci_low": 2.0189,
+        "ci_high": 1.9295
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 25.6195,
+        "ci_low": 1.4406,
+        "ci_high": 1.6894
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 32.6236,
+        "ci_low": 1.7296,
+        "ci_high": 1.9845
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 28.9502,
+        "ci_low": 1.599,
+        "ci_high": 1.7733
+      },
+      {
+        "system_id": "Team-J",
+        "score": 33.5433,
+        "ci_low": 1.7298,
+        "ci_high": 1.8343
+      },
+      {
+        "system_id": "Aya23",
+        "score": 34.0494,
+        "ci_low": 2.1015,
+        "ci_high": 1.9447
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 36.1729,
+        "ci_low": 2.0205,
+        "ci_high": 1.9741
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 36.8367,
+        "ci_low": 1.8899,
+        "ci_high": 2.0255
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 36.7035,
+        "ci_low": 1.703,
+        "ci_high": 1.9271
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 40.4404,
+        "ci_low": 1.9139,
+        "ci_high": 2.1708
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 40.1704,
+        "ci_low": 2.0992,
+        "ci_high": 2.2742
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 37.9707,
+        "ci_low": 2.0545,
+        "ci_high": 2.0139
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 39.0793,
+        "ci_low": 1.9574,
+        "ci_high": 2.218
+      }
+    ]
+  },
+  {
+    "metric": "chrfS",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.065,
+        "ci_low": 0.0059,
+        "ci_high": 0.0063
+      },
+      {
+        "system_id": "B",
+        "score": 0.3198,
+        "ci_low": 0.013,
+        "ci_high": 0.0124
+      },
+      {
+        "system_id": "C",
+        "score": 0.4151,
+        "ci_low": 0.0119,
+        "ci_high": 0.012
+      },
+      {
+        "system_id": "D",
+        "score": 0.4795,
+        "ci_low": 0.0104,
+        "ci_high": 0.0112
+      },
+      {
+        "system_id": "E",
+        "score": 0.5058,
+        "ci_low": 0.0115,
+        "ci_high": 0.0108
+      },
+      {
+        "system_id": "F*",
+        "score": 0.5349,
+        "ci_low": 0.0091,
+        "ci_high": 0.0104
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.6413,
+        "ci_low": 0.0111,
+        "ci_high": 0.0101
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.5288,
+        "ci_low": 0.0093,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 0.581,
+        "ci_low": 0.0089,
+        "ci_high": 0.0095
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 0.564,
+        "ci_low": 0.0082,
+        "ci_high": 0.0076
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.5868,
+        "ci_low": 0.0077,
+        "ci_high": 0.0078
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.5857,
+        "ci_low": 0.0091,
+        "ci_high": 0.0102
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 0.5929,
+        "ci_low": 0.0087,
+        "ci_high": 0.0092
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.6021,
+        "ci_low": 0.0099,
+        "ci_high": 0.0103
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 0.6004,
+        "ci_low": 0.0098,
+        "ci_high": 0.0082
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.6154,
+        "ci_low": 0.0095,
+        "ci_high": 0.0086
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.617,
+        "ci_low": 0.0097,
+        "ci_high": 0.0093
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 0.6083,
+        "ci_low": 0.0098,
+        "ci_high": 0.0099
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.6178,
+        "ci_low": 0.0096,
+        "ci_high": 0.0098
+      }
+    ]
+  },
+  {
+    "metric": "damonmonli",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 15.5327,
+        "ci_low": 1.2643,
+        "ci_high": 1.4873
+      },
+      {
+        "system_id": "B",
+        "score": 27.9976,
+        "ci_low": 1.1842,
+        "ci_high": 1.1975
+      },
+      {
+        "system_id": "C",
+        "score": 36.4546,
+        "ci_low": 1.1165,
+        "ci_high": 1.1071
+      },
+      {
+        "system_id": "D",
+        "score": 42.5176,
+        "ci_low": 0.8661,
+        "ci_high": 0.8745
+      },
+      {
+        "system_id": "E",
+        "score": 45.1816,
+        "ci_low": 0.7951,
+        "ci_high": 0.7342
+      },
+      {
+        "system_id": "F*",
+        "score": 48.6396,
+        "ci_low": 0.6441,
+        "ci_high": 0.6902
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 50.9957,
+        "ci_low": 0.5986,
+        "ci_high": 0.5726
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 47.5807,
+        "ci_low": 0.8422,
+        "ci_high": 0.8262
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 51.5982,
+        "ci_low": 0.5444,
+        "ci_high": 0.5106
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 51.3074,
+        "ci_low": 0.5073,
+        "ci_high": 0.4862
+      },
+      {
+        "system_id": "Team-J",
+        "score": 51.5339,
+        "ci_low": 0.518,
+        "ci_high": 0.5169
+      },
+      {
+        "system_id": "Aya23",
+        "score": 50.9982,
+        "ci_low": 0.5268,
+        "ci_high": 0.5604
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 51.4461,
+        "ci_low": 0.5244,
+        "ci_high": 0.5603
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 52.0355,
+        "ci_low": 0.4631,
+        "ci_high": 0.4452
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 52.307,
+        "ci_low": 0.4612,
+        "ci_high": 0.4661
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 52.1995,
+        "ci_low": 0.4544,
+        "ci_high": 0.5188
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 52.0679,
+        "ci_low": 0.529,
+        "ci_high": 0.4802
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 52.3984,
+        "ci_low": 0.4655,
+        "ci_high": 0.4443
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 52.5212,
+        "ci_low": 0.3918,
+        "ci_high": 0.4147
+      }
+    ]
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.136,
+        "ci_low": 0.0119,
+        "ci_high": 0.0141
+      },
+      {
+        "system_id": "B",
+        "score": 0.2649,
+        "ci_low": 0.0353,
+        "ci_high": 0.0369
+      },
+      {
+        "system_id": "C",
+        "score": 0.4042,
+        "ci_low": 0.0455,
+        "ci_high": 0.046
+      },
+      {
+        "system_id": "D",
+        "score": 0.6079,
+        "ci_low": 0.0522,
+        "ci_high": 0.0562
+      },
+      {
+        "system_id": "E",
+        "score": 0.7535,
+        "ci_low": 0.0472,
+        "ci_high": 0.0434
+      },
+      {
+        "system_id": "F*",
+        "score": 1.0252,
+        "ci_low": 0.0392,
+        "ci_high": 0.0372
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 1.2112,
+        "ci_low": 0.0251,
+        "ci_high": 0.0234
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 1.1955,
+        "ci_low": 0.0328,
+        "ci_high": 0.03
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 1.2598,
+        "ci_low": 0.0156,
+        "ci_high": 0.0165
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 1.2449,
+        "ci_low": 0.0199,
+        "ci_high": 0.02
+      },
+      {
+        "system_id": "Team-J",
+        "score": 1.3016,
+        "ci_low": 0.0157,
+        "ci_high": 0.0146
+      },
+      {
+        "system_id": "Aya23",
+        "score": 1.2417,
+        "ci_low": 0.0178,
+        "ci_high": 0.0178
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 1.2797,
+        "ci_low": 0.0175,
+        "ci_high": 0.0153
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 1.3379,
+        "ci_low": 0.012,
+        "ci_high": 0.0111
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 1.3001,
+        "ci_low": 0.0134,
+        "ci_high": 0.0133
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 1.327,
+        "ci_low": 0.0119,
+        "ci_high": 0.0115
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 1.3256,
+        "ci_low": 0.0123,
+        "ci_high": 0.011
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 1.3019,
+        "ci_low": 0.0133,
+        "ci_high": 0.0141
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 1.3129,
+        "ci_low": 0.0117,
+        "ci_high": 0.0115
+      }
+    ]
+  },
+  {
+    "metric": "metametrics_mt_mqm_qe",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.2241,
+        "ci_low": 0.0158,
+        "ci_high": 0.0157
+      },
+      {
+        "system_id": "B",
+        "score": 0.3038,
+        "ci_low": 0.0305,
+        "ci_high": 0.0316
+      },
+      {
+        "system_id": "C",
+        "score": 0.4039,
+        "ci_low": 0.034,
+        "ci_high": 0.0357
+      },
+      {
+        "system_id": "D",
+        "score": 0.6074,
+        "ci_low": 0.0349,
+        "ci_high": 0.0329
+      },
+      {
+        "system_id": "E",
+        "score": 0.7168,
+        "ci_low": 0.0315,
+        "ci_high": 0.032
+      },
+      {
+        "system_id": "F*",
+        "score": 0.894,
+        "ci_low": 0.0258,
+        "ci_high": 0.0239
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 0.9718,
+        "ci_low": 0.0212,
+        "ci_high": 0.0192
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.9926,
+        "ci_low": 0.0232,
+        "ci_high": 0.0253
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 1.0176,
+        "ci_low": 0.0141,
+        "ci_high": 0.0152
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 1.0017,
+        "ci_low": 0.0182,
+        "ci_high": 0.0164
+      },
+      {
+        "system_id": "Team-J",
+        "score": 1.0438,
+        "ci_low": 0.0151,
+        "ci_high": 0.0142
+      },
+      {
+        "system_id": "Aya23",
+        "score": 0.9999,
+        "ci_low": 0.0159,
+        "ci_high": 0.0144
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 1.0129,
+        "ci_low": 0.0164,
+        "ci_high": 0.0178
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 1.066,
+        "ci_low": 0.0114,
+        "ci_high": 0.0119
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 1.0401,
+        "ci_low": 0.0132,
+        "ci_high": 0.0134
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 1.0515,
+        "ci_low": 0.0134,
+        "ci_high": 0.0135
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 1.0476,
+        "ci_low": 0.0134,
+        "ci_high": 0.0127
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 1.0343,
+        "ci_low": 0.0144,
+        "ci_high": 0.0153
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 1.035,
+        "ci_low": 0.014,
+        "ci_high": 0.0135
+      }
+    ]
+  },
+  {
+    "metric": "sentinel-cand",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -1.5295,
+        "ci_low": 0.1385,
+        "ci_high": 0.1391
+      },
+      {
+        "system_id": "B",
+        "score": -1.8112,
+        "ci_low": 0.1259,
+        "ci_high": 0.1235
+      },
+      {
+        "system_id": "C",
+        "score": -1.7319,
+        "ci_low": 0.1231,
+        "ci_high": 0.1281
+      },
+      {
+        "system_id": "D",
+        "score": -1.2615,
+        "ci_low": 0.1148,
+        "ci_high": 0.1128
+      },
+      {
+        "system_id": "E",
+        "score": -1.0036,
+        "ci_low": 0.1076,
+        "ci_high": 0.117
+      },
+      {
+        "system_id": "F*",
+        "score": -0.5629,
+        "ci_low": 0.0866,
+        "ci_high": 0.0906
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -0.014,
+        "ci_low": 0.0583,
+        "ci_high": 0.0532
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 0.0524,
+        "ci_low": 0.0529,
+        "ci_high": 0.0519
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -0.1093,
+        "ci_low": 0.0527,
+        "ci_high": 0.0552
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -0.0395,
+        "ci_low": 0.0559,
+        "ci_high": 0.0498
+      },
+      {
+        "system_id": "Team-J",
+        "score": 0.1884,
+        "ci_low": 0.0338,
+        "ci_high": 0.0315
+      },
+      {
+        "system_id": "Aya23",
+        "score": -0.1283,
+        "ci_low": 0.0666,
+        "ci_high": 0.0593
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -0.0241,
+        "ci_low": 0.0554,
+        "ci_high": 0.0518
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 0.1608,
+        "ci_low": 0.0445,
+        "ci_high": 0.0386
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -0.0055,
+        "ci_low": 0.0502,
+        "ci_high": 0.0494
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 0.0758,
+        "ci_low": 0.045,
+        "ci_high": 0.0434
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 0.0766,
+        "ci_low": 0.0409,
+        "ci_high": 0.0415
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -0.0246,
+        "ci_low": 0.0522,
+        "ci_high": 0.0501
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 0.0314,
+        "ci_low": 0.0458,
+        "ci_high": 0.0457
+      }
+    ]
+  },
+  {
+    "metric": "sentinel-ref",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -0.1597,
+        "ci_low": 0.0724,
+        "ci_high": 0.0655
+      },
+      {
+        "system_id": "B",
+        "score": -0.1597,
+        "ci_low": 0.0676,
+        "ci_high": 0.0746
+      },
+      {
+        "system_id": "C",
+        "score": -0.1597,
+        "ci_low": 0.0731,
+        "ci_high": 0.0667
+      },
+      {
+        "system_id": "D",
+        "score": -0.1597,
+        "ci_low": 0.0747,
+        "ci_high": 0.0723
+      },
+      {
+        "system_id": "E",
+        "score": -0.1597,
+        "ci_low": 0.0695,
+        "ci_high": 0.0657
+      },
+      {
+        "system_id": "F*",
+        "score": -0.1597,
+        "ci_low": 0.0703,
+        "ci_high": 0.0689
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -0.1597,
+        "ci_low": 0.0734,
+        "ci_high": 0.0698
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -0.1597,
+        "ci_low": 0.069,
+        "ci_high": 0.0688
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -0.1597,
+        "ci_low": 0.0713,
+        "ci_high": 0.065
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -0.1597,
+        "ci_low": 0.0714,
+        "ci_high": 0.0689
+      },
+      {
+        "system_id": "Team-J",
+        "score": -0.1597,
+        "ci_low": 0.0719,
+        "ci_high": 0.0695
+      },
+      {
+        "system_id": "Aya23",
+        "score": -0.1597,
+        "ci_low": 0.0764,
+        "ci_high": 0.0691
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -0.1597,
+        "ci_low": 0.0731,
+        "ci_high": 0.0677
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -0.1597,
+        "ci_low": 0.0729,
+        "ci_high": 0.0685
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -0.1597,
+        "ci_low": 0.0733,
+        "ci_high": 0.0725
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -0.1597,
+        "ci_low": 0.0716,
+        "ci_high": 0.068
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -0.1597,
+        "ci_low": 0.0811,
+        "ci_high": 0.0665
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -0.1597,
+        "ci_low": 0.0758,
+        "ci_high": 0.074
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -0.1597,
+        "ci_low": 0.0717,
+        "ci_high": 0.07
+      }
+    ]
+  },
+  {
+    "metric": "sentinel-src",
+    "values": [
+      {
+        "system_id": "A",
+        "score": -0.2495,
+        "ci_low": 0.0582,
+        "ci_high": 0.0607
+      },
+      {
+        "system_id": "B",
+        "score": -0.2495,
+        "ci_low": 0.059,
+        "ci_high": 0.0628
+      },
+      {
+        "system_id": "C",
+        "score": -0.2495,
+        "ci_low": 0.0615,
+        "ci_high": 0.0588
+      },
+      {
+        "system_id": "D",
+        "score": -0.2495,
+        "ci_low": 0.0598,
+        "ci_high": 0.0626
+      },
+      {
+        "system_id": "E",
+        "score": -0.2495,
+        "ci_low": 0.0644,
+        "ci_high": 0.0606
+      },
+      {
+        "system_id": "F*",
+        "score": -0.2495,
+        "ci_low": 0.0569,
+        "ci_high": 0.0609
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": -0.2495,
+        "ci_low": 0.0559,
+        "ci_high": 0.0592
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": -0.2495,
+        "ci_low": 0.0533,
+        "ci_high": 0.0589
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": -0.2495,
+        "ci_low": 0.0587,
+        "ci_high": 0.0605
+      },
+      {
+        "system_id": "NTTSU",
+        "score": -0.2495,
+        "ci_low": 0.0615,
+        "ci_high": 0.0593
+      },
+      {
+        "system_id": "Team-J",
+        "score": -0.2495,
+        "ci_low": 0.0611,
+        "ci_high": 0.0566
+      },
+      {
+        "system_id": "Aya23",
+        "score": -0.2495,
+        "ci_low": 0.0614,
+        "ci_high": 0.0599
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": -0.2495,
+        "ci_low": 0.0558,
+        "ci_high": 0.0594
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": -0.2495,
+        "ci_low": 0.0587,
+        "ci_high": 0.0623
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": -0.2495,
+        "ci_low": 0.059,
+        "ci_high": 0.0574
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": -0.2495,
+        "ci_low": 0.061,
+        "ci_high": 0.0614
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": -0.2495,
+        "ci_low": 0.0613,
+        "ci_high": 0.0579
+      },
+      {
+        "system_id": "GPT-4",
+        "score": -0.2495,
+        "ci_low": 0.0629,
+        "ci_high": 0.0585
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": -0.2495,
+        "ci_low": 0.0553,
+        "ci_high": 0.0642
+      }
+    ]
+  },
+  {
+    "metric": "spBLEU",
+    "values": [
+      {
+        "system_id": "A",
+        "score": 0.5902,
+        "ci_low": 0.1331,
+        "ci_high": 0.1639
+      },
+      {
+        "system_id": "B",
+        "score": 6.1522,
+        "ci_low": 1.3075,
+        "ci_high": 1.531
+      },
+      {
+        "system_id": "C",
+        "score": 11.7296,
+        "ci_low": 1.68,
+        "ci_high": 1.815
+      },
+      {
+        "system_id": "D",
+        "score": 16.5383,
+        "ci_low": 1.987,
+        "ci_high": 2.1582
+      },
+      {
+        "system_id": "E",
+        "score": 20.078,
+        "ci_low": 2.2887,
+        "ci_high": 2.3647
+      },
+      {
+        "system_id": "F*",
+        "score": 22.4642,
+        "ci_low": 2.2725,
+        "ci_high": 2.2961
+      },
+      {
+        "system_id": "ONLINE-B",
+        "score": 45.4758,
+        "ci_low": 2.4049,
+        "ci_high": 2.3268
+      },
+      {
+        "system_id": "IKUN-C",
+        "score": 23.4722,
+        "ci_low": 1.7061,
+        "ci_high": 1.7829
+      },
+      {
+        "system_id": "Llama3-70B",
+        "score": 31.8605,
+        "ci_low": 2.143,
+        "ci_high": 2.2743
+      },
+      {
+        "system_id": "NTTSU",
+        "score": 32.3925,
+        "ci_low": 2.0032,
+        "ci_high": 2.2084
+      },
+      {
+        "system_id": "Team-J",
+        "score": 33.4283,
+        "ci_low": 1.8638,
+        "ci_high": 1.7907
+      },
+      {
+        "system_id": "Aya23",
+        "score": 32.1678,
+        "ci_low": 2.1252,
+        "ci_high": 2.1349
+      },
+      {
+        "system_id": "CommandR-plus",
+        "score": 34.9886,
+        "ci_low": 2.2498,
+        "ci_high": 2.1875
+      },
+      {
+        "system_id": "Unbabel-Tower70B",
+        "score": 35.6937,
+        "ci_low": 2.1682,
+        "ci_high": 2.214
+      },
+      {
+        "system_id": "IOL_Research",
+        "score": 36.0224,
+        "ci_low": 2.0068,
+        "ci_high": 2.0072
+      },
+      {
+        "system_id": "DLUT_GTCOM",
+        "score": 39.4833,
+        "ci_low": 2.1417,
+        "ci_high": 2.039
+      },
+      {
+        "system_id": "Gemini-1.5-Pro",
+        "score": 38.6107,
+        "ci_low": 2.1011,
+        "ci_high": 2.2151
+      },
+      {
+        "system_id": "GPT-4",
+        "score": 36.6371,
+        "ci_low": 2.1848,
+        "ci_high": 2.2173
+      },
+      {
+        "system_id": "Claude-3.5",
+        "score": 38.0957,
+        "ci_low": 2.0978,
+        "ci_high": 2.2383
+      }
+    ]
+  }
+]
