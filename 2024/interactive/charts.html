@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="mslc.css" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <section id="description" class="md-typeset">
+      <h1>
+        MSLC 2024 Interactive Figures
+        <a class="headerlink" href="#description" title="Permanent link"
+          ><code>&sect;</code></a
+        >
+      </h1>
+      <p>
+        This page contains interactive figures associated with the
+        <a href="https://aclanthology.org/2024.wmt-1.34/">MSLC24 paper</a>: the
+        full Matrix, System Averages, and Empty Input or Empty Hypothesis plots.
+        Using the dropdown menus and other interactive elements, you can select
+        the language pair or other features of the plots.
+      </p>
+    </section>
+
+    <section id="matrix" class="md-typeset">
+      <h1>
+        Matrix
+        <a class="headerlink" href="#matrix" title="Permanent link"
+          ><code>&sect;</code></a
+        >
+      </h1>
+      <p>
+        Matrix of segment-level scores for <span id="matrix_langpair"></span>.
+        Along the diagonal are stacked histograms of segment scores across the
+        challenge set (cool colours/bottom) and submitted WMT systems (warm
+        colours/top). The off-diagonal entries are scatterplots where each point
+        is a single segment positioned according to the score assigned to it by
+        row and column metrics; each point is coloured according to the same
+        colours as the histogram.
+      </p>
+      <p>
+        Hovering over the plots will provide tooltips with information. You can
+        change the language pair using the dropdown menu, select the subset of
+        metrics to examine using the metric buttons, and highlight in black a
+        particular system by hovering your over the system name in the legend.
+        Note that there may be slight delays.
+      </p>
+      <div class="heading">
+        <div>
+          Available language pairs:
+          <select
+            name="matrix_langpairs"
+            id="matrix_langpairs"
+            title="Available language pairs"
+          >
+            <option value="ende">English→German</option>
+            <option value="enes">English→Spanish</option>
+            <option value="jazh">Japanese→Chinese</option>
+          </select>
+        </div>
+        <div
+          name="matrix_metrics"
+          id="matrix_metrics"
+          title="Metrics to be displayed"
+          class="btn-group-sm btn-group-toggle"
+          data-toggle="buttons"
+        ></div>
+      </div>
+      <div id="matrix_plots"></div>
+    </section>
+
+    <section id="averages" class="md-typeset">
+      <h1>
+        System Averages
+        <a class="headerlink" href="#averages" title="Permanent link"
+          ><code>&sect;</code></a
+        >
+      </h1>
+      <p>
+        System average scores for <span id="ci_langpair"></span>. MSLC systems
+        (cool colours, left) are ordered by BLEU score and brief manual
+        examination; WMT submitted systems (warm colours, right) are ranked by
+        your choice of metric (default: MQM).
+      </p>
+      <div class="heading">
+        <div>
+          Available language pairs:
+          <select
+            name="ci_langpairs"
+            id="ci_langpairs"
+            title="Available language pairs"
+          >
+            <option value="ende">English→German</option>
+            <option value="enes">English→Spanish</option>
+            <option value="jazh">Japanese→Chinese</option>
+          </select>
+        </div>
+        <div>
+          Sort order for systems submitted to WMT2024:
+          <select
+            name="system_averages_sort_order"
+            id="system_averages_sort_order"
+            title="Sort order for systems submitted to WMT2024"
+          ></select>
+        </div>
+      </div>
+      <div id="system_averages_plots" class="grid-container"></div>
+    </section>
+
+    <section id="empties" class="md-typeset">
+      <h1>
+        Empty Input or Empty Hypothesis
+        <a class="headerlink" href="#empties" title="Permanent link"
+          ><code>&sect;</code></a
+        >
+      </h1>
+      <p>
+        Each subfigure shows the scores assigned to the 10 items in each
+        category (punctuation, words, phrases, or sentences/full segments), with
+        the vertical red lines indicating the lowest and highest scores assigned
+        by this metric to any of the WMT news test data for any submitted MT
+        system in this language pair.
+      </p>
+      <div class="heading">
+        Available language pairs:
+        <select
+          name="system_averages_langpairs"
+          id="system_averages_langpairs"
+          title="Available language pairs"
+        >
+          <optgroup label="Empty Input">
+            <option value="emptyinput-en-de">
+              English→German (empty input)
+            </option>
+            <option value="emptyinput-en-es">
+              English→Spanish (empty input)
+            </option>
+            <option value="emptyinput-ja-zh">
+              Japanese→Chinese (empty input)
+            </option>
+          </optgroup>
+          <optgroup label="Empty Output">
+            <option value="emptyoutput-en-de">
+              English→German (empty hypothesis)
+            </option>
+            <option value="emptyoutput-en-es">
+              English→Spanish (empty hypothesis)
+            </option>
+            <option value="emptyoutput-ja-zh">
+              Japanese→Chinese (empty hypothesis)
+            </option>
+          </optgroup>
+        </select>
+      </div>
+      <div id="empties_plots" class="grid-container"></div>
+    </section>
+
+    <!--
+    <section id="wrong" class="md-typeset">
+      <h1>Wrong</h1>
+      <p>
+        eng→deu: Number of times (out of 10) that the metric scored refB higher
+        than or equal to its mixed language pair (refB≥Mix), higher than or
+        equal to its wrong-language pair (refB≥Wrong), and a mixed language
+        hypothesis higher than or equal to its wrong language pair (Mix≥Wrong).
+      </p>
+      <div id="wrong"></div>
+    </section>
+    -->
+
+    <script type="module">
+      import plot from "./matrix_chart.mjs";
+
+      const selection = document.getElementById("matrix_langpairs");
+      selection.onchange = async (e) => {
+        const selected = e.currentTarget.value;
+        document.getElementById("matrix_langpair").textContent =
+          e.target.options[e.target.selectedIndex].text;
+        await plot(
+          "#matrix_plots",
+          "#matrix_metrics",
+          `hum-matrix/hum-${selected}-matrix`,
+        );
+      };
+
+      // Initial chart
+      selection.dispatchEvent(new Event("change"));
+    </script>
+
+    <script type="module">
+      import plot from "./system_averages_chart.mjs";
+
+      const selection = document.getElementById("ci_langpairs");
+      selection.onchange = async (e) => {
+        const selected = e.currentTarget.value;
+        document.getElementById("ci_langpair").textContent =
+          e.target.options[e.target.selectedIndex].text;
+        await plot(
+          "#system_averages_plots",
+          "#system_averages_sort_order",
+          `hum-sysavg/hum-${selected}-sysavg`,
+        );
+      };
+
+      // Initial chart
+      selection.dispatchEvent(new Event("change"));
+    </script>
+
+    <script type="module">
+      import plot from "./empties_chart.mjs";
+
+      const selection = document.getElementById("system_averages_langpairs");
+      selection.onchange = async (e) => {
+        const selected = e.currentTarget.value;
+        await plot(
+          "#empties_plots",
+          `empties/${selected}-data`,
+          `empties/${selected}-metricminmax`,
+        );
+      };
+
+      // Initial chart
+      selection.dispatchEvent(new Event("change"));
+    </script>
+
+    <!--
+    <script type="module">
+      import plot from "/wrong_chart.mjs";
+      plot("#wrong", "/wrong/data.csv");
+    </script>
+    -->
+  </body>
+</html>
