@@ -34,7 +34,7 @@ Within the `MSLC-B/` directory, you will find the data submitted for scoring as 
 - `*.types`: Information about the phenomena covered in the MSLC-B challenge set, specifically for empty strings (whether the data is empty source and reference or empty hypothesis).
 
 ## Figures
-For interactive figures, see: [https://nrc-cnrc.github.io/MSLC/2024/interactive/charts.html](https://nrc-cnrc.github.io/MSLC/2025/interactive/charts.html)
+For interactive figures, see: [https://nrc-cnrc.github.io/MSLC/2025/interactive/charts.html](https://nrc-cnrc.github.io/MSLC/2025/interactive/charts.html)
 
 ## Licence
 The contents of this repository are released under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
