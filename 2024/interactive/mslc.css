@@ -1,0 +1,74 @@
+body {
+  margin: 1.0em;
+  font-family: "Signika Negative", sans-serif;
+}
+
+/* [Create REsponsive CCS Grid Layouts with GRID WRAPPING](https://youtu.be/3T0gjtXRNC0?si=hNJ33YFBpluz1kvs) */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(850px, 1fr));
+  column-gap: 10px;
+  row-gap: 15px;
+}
+
+div#pwps {
+  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+}
+
+div#matrix_metrics,
+div#ci_sort_order2 {
+  /* [Bootstrap: Button group not wrapping when too long](https://stackoverflow.com/a/41625276) */
+  flex-wrap: wrap;
+}
+
+.highlight {
+  fill: black;
+}
+
+circle.highlight {
+  opacity: 1;
+}
+
+/* [position: sticky is Amazing](https://mastery.games/post/position-sticky/) */
+.heading {
+  background: #ccc;
+  line-height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.3em;
+  padding-left: 10px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+}
+
+.loading_error {
+  color: red;
+  font-size: 2.0em;
+}
+
+.md-typeset .headerlink {
+  color: #00000052;
+  display: inline-block;
+  opacity: 0;
+  transition: color .25s, opacity 125ms
+}
+
+@media print {
+  .md-typeset .headerlink {
+    display: none
+  }
+}
+
+.md-typeset .headerlink:focus,
+.md-typeset :hover>.headerlink,
+.md-typeset :target>.headerlink {
+  opacity: 1;
+  transition: color .25s, opacity 125ms
+}
+
+.md-typeset .headerlink:focus,
+.md-typeset .headerlink:hover,
+.md-typeset :target>.headerlink {
+  color: #526cfe;
+}

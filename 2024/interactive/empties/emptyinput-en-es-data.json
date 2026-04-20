@@ -1,0 +1,3602 @@
+[
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 41,
+    "score": 0.2717,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 42,
+    "score": 0.2758,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 43,
+    "score": 0.0646,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 44,
+    "score": 0.1323,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 45,
+    "score": 0.0632,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 46,
+    "score": 0.0895,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 47,
+    "score": 0.1023,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 48,
+    "score": 0.1811,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 49,
+    "score": 0.2618,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 50,
+    "score": 0.0532,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 51,
+    "score": 0.0505,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 52,
+    "score": 0.0116,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 53,
+    "score": 0.0376,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 54,
+    "score": 0.0384,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 55,
+    "score": 0.1186,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 56,
+    "score": 0.0592,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 57,
+    "score": 0.0777,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 58,
+    "score": 0.0225,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 59,
+    "score": 0.0801,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 60,
+    "score": 0.098,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 61,
+    "score": 0.1066,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 62,
+    "score": 0.0133,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 63,
+    "score": 0.0003,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 64,
+    "score": 0.0537,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 65,
+    "score": -0.0454,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 66,
+    "score": 0.068,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 67,
+    "score": 0.078,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 68,
+    "score": 0.012,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 69,
+    "score": -0.0257,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 70,
+    "score": -0.0089,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 71,
+    "score": 0.1453,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 72,
+    "score": 0.0823,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 73,
+    "score": 0.044,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 74,
+    "score": 0.1742,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 75,
+    "score": 0.1909,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 76,
+    "score": 0.0566,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 77,
+    "score": 0.0815,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 78,
+    "score": 0.0513,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 79,
+    "score": 0.1201,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "BLEURT-20",
+    "segment_id": 80,
+    "score": 0.1058,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 41,
+    "score": 0.5589,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 42,
+    "score": 0.4737,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 43,
+    "score": 0.543,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 44,
+    "score": 0.5019,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 45,
+    "score": 0.5345,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 46,
+    "score": 0.4444,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 47,
+    "score": 0.4144,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 48,
+    "score": 0.4873,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 49,
+    "score": 0.5602,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 50,
+    "score": 0.4563,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 51,
+    "score": 0.7446,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 52,
+    "score": 0.6975,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 53,
+    "score": 0.4751,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 54,
+    "score": 0.7067,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 55,
+    "score": 0.5135,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 56,
+    "score": 0.6759,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 57,
+    "score": 0.725,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 58,
+    "score": 0.6277,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 59,
+    "score": 0.6075,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 60,
+    "score": 0.585,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 61,
+    "score": 0.4168,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 62,
+    "score": 0.5639,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 63,
+    "score": 0.5409,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 64,
+    "score": 0.3659,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 65,
+    "score": 0.6038,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 66,
+    "score": 0.6534,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 67,
+    "score": 0.6455,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 68,
+    "score": 0.5231,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 69,
+    "score": 0.493,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 70,
+    "score": 0.5081,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 71,
+    "score": 0.7737,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 72,
+    "score": 0.7412,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 73,
+    "score": 0.7463,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 74,
+    "score": 0.7254,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 75,
+    "score": 0.7662,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 76,
+    "score": 0.6802,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 77,
+    "score": 0.7335,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 78,
+    "score": 0.7471,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 79,
+    "score": 0.7167,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "COMET-22",
+    "segment_id": 80,
+    "score": 0.7231,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 41,
+    "score": 0.6079,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 42,
+    "score": 0.7844,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 43,
+    "score": 0.5071,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 44,
+    "score": 0.8446,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 45,
+    "score": 0.4042,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 46,
+    "score": 0.3076,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 47,
+    "score": 0.3896,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 48,
+    "score": 0.5956,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 49,
+    "score": 0.6276,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 50,
+    "score": 0.4893,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 51,
+    "score": 0.8841,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 52,
+    "score": 0.345,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 53,
+    "score": 0.467,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 54,
+    "score": 0.5217,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 55,
+    "score": 0.5112,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 56,
+    "score": 0.7061,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 57,
+    "score": 0.4527,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 58,
+    "score": 0.7193,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 59,
+    "score": 0.6188,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 60,
+    "score": 0.4515,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 61,
+    "score": 0.7697,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 62,
+    "score": 0.8411,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 63,
+    "score": 0.8116,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 64,
+    "score": 0.7838,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 65,
+    "score": 0.766,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 66,
+    "score": 0.8501,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 67,
+    "score": 0.8556,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 68,
+    "score": 0.5269,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 69,
+    "score": 0.6633,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 70,
+    "score": 0.3782,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 71,
+    "score": 0.7656,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 72,
+    "score": 0.7632,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 73,
+    "score": 0.6867,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 74,
+    "score": 0.7822,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 75,
+    "score": 0.795,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 76,
+    "score": 0.6835,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 77,
+    "score": 0.8225,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 78,
+    "score": 0.7302,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 79,
+    "score": 0.8025,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "CometKiwi",
+    "segment_id": 80,
+    "score": 0.8129,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 41,
+    "score": -6.1535,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 42,
+    "score": -5.7364,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 43,
+    "score": -6.2575,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 44,
+    "score": -5.9043,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 45,
+    "score": -6.3254,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 46,
+    "score": -5.8812,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 47,
+    "score": -6.2509,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 48,
+    "score": -6.2631,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 49,
+    "score": -5.9978,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 50,
+    "score": -6.177,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 51,
+    "score": -7.5459,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 52,
+    "score": -8.6849,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 53,
+    "score": -6.9849,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 54,
+    "score": -10.9375,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 55,
+    "score": -7.8823,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 56,
+    "score": -7.3555,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 57,
+    "score": -7.4648,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 58,
+    "score": -7.9688,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 59,
+    "score": -7.5391,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 60,
+    "score": -7.4323,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 61,
+    "score": -5.4824,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 62,
+    "score": -6.4076,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 63,
+    "score": -5.8659,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 64,
+    "score": -6.2919,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 65,
+    "score": -6.1053,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 66,
+    "score": -8.3516,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 67,
+    "score": -6.4552,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 68,
+    "score": -6.7988,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 69,
+    "score": -6.2847,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 70,
+    "score": -6.1191,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 71,
+    "score": -7.2969,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 72,
+    "score": -9,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 73,
+    "score": -8.8125,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 74,
+    "score": -7.1094,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 75,
+    "score": -7.2656,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 76,
+    "score": -8.6094,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 77,
+    "score": -6.8594,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 78,
+    "score": -5.8867,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 79,
+    "score": -7.5625,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefMedium",
+    "segment_id": 80,
+    "score": -7.8125,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 41,
+    "score": -6.2363,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 42,
+    "score": -5.9228,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 43,
+    "score": -6.3516,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 44,
+    "score": -5.9615,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 45,
+    "score": -6.3896,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 46,
+    "score": -6.141,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 47,
+    "score": -6.5026,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 48,
+    "score": -6.4124,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 49,
+    "score": -6.0838,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 50,
+    "score": -6.3041,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 51,
+    "score": -8.1289,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 52,
+    "score": -7.9167,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 53,
+    "score": -6.7536,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 54,
+    "score": -9.9375,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 55,
+    "score": -8.8281,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 56,
+    "score": -7.1562,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 57,
+    "score": -7.4453,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 58,
+    "score": -8.2344,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 59,
+    "score": -7.9688,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 60,
+    "score": -7.4323,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 61,
+    "score": -5.6738,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 62,
+    "score": -6.3208,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 63,
+    "score": -5.969,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 64,
+    "score": -6.6352,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 65,
+    "score": -6.1683,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 66,
+    "score": -8.3828,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 67,
+    "score": -6.918,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 68,
+    "score": -6.6277,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 69,
+    "score": -6.4783,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 70,
+    "score": -6.2336,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 71,
+    "score": -6.8125,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 72,
+    "score": -8.6719,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 73,
+    "score": -8.7031,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 74,
+    "score": -7.0469,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 75,
+    "score": -7.125,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 76,
+    "score": -8.8438,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 77,
+    "score": -7.8125,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 78,
+    "score": -6.6406,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 79,
+    "score": -7.7344,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "PrismRefSmall",
+    "segment_id": 80,
+    "score": -8.125,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 41,
+    "score": 0.0596,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 42,
+    "score": 0.0923,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 43,
+    "score": 0.1141,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 44,
+    "score": 0.0857,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 45,
+    "score": 0.0845,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 46,
+    "score": 0.0697,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 47,
+    "score": 0.0597,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 48,
+    "score": 0.0971,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 49,
+    "score": 0.0869,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 50,
+    "score": 0.0972,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 51,
+    "score": 0.0782,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 52,
+    "score": 0.0895,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 53,
+    "score": 0.0446,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 54,
+    "score": 0.1256,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 55,
+    "score": 0.128,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 56,
+    "score": 0.0882,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 57,
+    "score": 0.0583,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 58,
+    "score": 0.1115,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 59,
+    "score": 0.0767,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 60,
+    "score": 0.1059,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 61,
+    "score": 0.0604,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 62,
+    "score": 0.0297,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 63,
+    "score": 0.1087,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 64,
+    "score": 0.071,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 65,
+    "score": 0.0908,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 66,
+    "score": 0.1161,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 67,
+    "score": 0.0862,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 68,
+    "score": 0.0405,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 69,
+    "score": 0.0384,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 70,
+    "score": 0.0444,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 71,
+    "score": 0.1267,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 72,
+    "score": 0.0273,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 73,
+    "score": 0.1583,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 74,
+    "score": 0.0357,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 75,
+    "score": 0.151,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 76,
+    "score": 0.0529,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 77,
+    "score": 0.0911,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 78,
+    "score": 0.0692,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 79,
+    "score": 0.1097,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "chrfS",
+    "segment_id": 80,
+    "score": 0.1149,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 41,
+    "score": 0.0895,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 42,
+    "score": 0.1384,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 43,
+    "score": 0.1712,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 44,
+    "score": 0.1286,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 45,
+    "score": 0.1268,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 46,
+    "score": 0.1045,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 47,
+    "score": 0.0895,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 48,
+    "score": 0.1456,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 49,
+    "score": 0.1303,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 50,
+    "score": 0.1459,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 51,
+    "score": 0.1172,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 52,
+    "score": 0.1343,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 53,
+    "score": 0.0669,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 54,
+    "score": 0.1884,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 55,
+    "score": 0.192,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 56,
+    "score": 0.1323,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 57,
+    "score": 0.0875,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 58,
+    "score": 0.1673,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 59,
+    "score": 0.115,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 60,
+    "score": 0.1589,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 61,
+    "score": 0.0906,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 62,
+    "score": 0.0445,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 63,
+    "score": 0.163,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 64,
+    "score": 0.1065,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 65,
+    "score": 0.1363,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 66,
+    "score": 0.1742,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 67,
+    "score": 0.1293,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 68,
+    "score": 0.0608,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 69,
+    "score": 0.0575,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 70,
+    "score": 0.0667,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 71,
+    "score": 0.1901,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 72,
+    "score": 0.041,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 73,
+    "score": 0.2374,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 74,
+    "score": 0.0536,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 75,
+    "score": 0.2264,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 76,
+    "score": 0.0793,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 77,
+    "score": 0.1366,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 78,
+    "score": 0.1038,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 79,
+    "score": 0.1646,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MEE4",
+    "segment_id": 80,
+    "score": 0.1724,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 41,
+    "score": 0.7292,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 42,
+    "score": 0.7582,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 43,
+    "score": 0.7299,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 44,
+    "score": 0.8066,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 45,
+    "score": 0.7066,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 46,
+    "score": 0.7182,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 47,
+    "score": 0.7771,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 48,
+    "score": 0.7042,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 49,
+    "score": 0.7721,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 50,
+    "score": 0.6756,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 51,
+    "score": 0.9724,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 52,
+    "score": 0.9346,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 53,
+    "score": 0.9447,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 54,
+    "score": 0.9825,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 55,
+    "score": 0.8814,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 56,
+    "score": 0.9545,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 57,
+    "score": 0.9729,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 58,
+    "score": 0.952,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 59,
+    "score": 0.8699,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 60,
+    "score": 0.9645,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 61,
+    "score": 0.8326,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 62,
+    "score": 0.8244,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 63,
+    "score": 0.8217,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 64,
+    "score": 0.8764,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 65,
+    "score": 0.7856,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 66,
+    "score": 0.9258,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 67,
+    "score": 0.8845,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 68,
+    "score": 0.9196,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 69,
+    "score": 0.8864,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 70,
+    "score": 0.8775,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 71,
+    "score": 0.9784,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 72,
+    "score": 0.9063,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 73,
+    "score": 0.9418,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 74,
+    "score": 0.98,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 75,
+    "score": 0.9771,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 76,
+    "score": 0.9681,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 77,
+    "score": 0.9998,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 78,
+    "score": 0.9645,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 79,
+    "score": 0.9686,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XLsimMqm",
+    "segment_id": 80,
+    "score": 0.9577,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 41,
+    "score": 0.7051,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 42,
+    "score": 1.0787,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 43,
+    "score": 0.1094,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 44,
+    "score": 0.1774,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 45,
+    "score": 0.6987,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 46,
+    "score": 0.5934,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 47,
+    "score": 0.8777,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 48,
+    "score": 0.1087,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 49,
+    "score": 0.1298,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 50,
+    "score": 0.9629,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 51,
+    "score": 1.1587,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 52,
+    "score": 0.8903,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 53,
+    "score": 1.0438,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 54,
+    "score": 1.0184,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 55,
+    "score": 0.9423,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 56,
+    "score": 1.0116,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 57,
+    "score": 0.987,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 58,
+    "score": 0.9708,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 59,
+    "score": 0.9877,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 60,
+    "score": 0.942,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 61,
+    "score": 0.5539,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 62,
+    "score": 1.1651,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 63,
+    "score": 1.0439,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 64,
+    "score": 1.0049,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 65,
+    "score": 0.9915,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 66,
+    "score": 1.0775,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 67,
+    "score": 1.1647,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 68,
+    "score": 1.0954,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 69,
+    "score": 1.0847,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 70,
+    "score": 1.0875,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 71,
+    "score": 1.1042,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 72,
+    "score": 1.1309,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 73,
+    "score": 1.1159,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 74,
+    "score": 1.1359,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 75,
+    "score": 1.1456,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 76,
+    "score": 1.1052,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 77,
+    "score": 1.1383,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 78,
+    "score": 1.1146,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 79,
+    "score": 1.1793,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "metametrics_mt_mqm_hybrid",
+    "segment_id": 80,
+    "score": 1.1568,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 41,
+    "score": -20.544,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 42,
+    "score": -4.4483,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 43,
+    "score": -21.8154,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 44,
+    "score": -24.3774,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 45,
+    "score": -22.7431,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 46,
+    "score": -19.8576,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 47,
+    "score": -19.9995,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 48,
+    "score": -18.4257,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 49,
+    "score": -20.9976,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 50,
+    "score": -20.2012,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 51,
+    "score": -6.3144,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 52,
+    "score": -8.2461,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 53,
+    "score": -5.9338,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 54,
+    "score": -0.9034,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 55,
+    "score": -3.6303,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 56,
+    "score": 2.253,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 57,
+    "score": -0.3317,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 58,
+    "score": -3.6582,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 59,
+    "score": -2.7713,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 60,
+    "score": -1.8379,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 61,
+    "score": -8.1677,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 62,
+    "score": -3.8767,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 63,
+    "score": -18.3017,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 64,
+    "score": -3.429,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 65,
+    "score": -14.9511,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 66,
+    "score": -5.4634,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 67,
+    "score": -0.2386,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 68,
+    "score": -19.3078,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 69,
+    "score": -4.7812,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 70,
+    "score": -1.3855,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 71,
+    "score": -0.5724,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 72,
+    "score": -0.2604,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 73,
+    "score": -0.3862,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 74,
+    "score": -0.1338,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 75,
+    "score": 0.5806,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 76,
+    "score": 2.1446,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 77,
+    "score": 2.0515,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 78,
+    "score": -0.293,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 79,
+    "score": -0.1254,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid",
+    "segment_id": 80,
+    "score": -0.2101,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 41,
+    "score": -20.5731,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 42,
+    "score": -4.4883,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 43,
+    "score": -21.8571,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 44,
+    "score": -24.3694,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 45,
+    "score": -22.7349,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 46,
+    "score": -19.876,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 47,
+    "score": -20.0093,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 48,
+    "score": -18.3776,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 49,
+    "score": -21.0556,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 50,
+    "score": -20.2473,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 51,
+    "score": -6.3516,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 52,
+    "score": -7.9637,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 53,
+    "score": -5.8748,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 54,
+    "score": -0.9179,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 55,
+    "score": -3.6518,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 56,
+    "score": 2.5997,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 57,
+    "score": -0.3267,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 58,
+    "score": -3.6246,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 59,
+    "score": -2.8084,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 60,
+    "score": -1.8715,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 61,
+    "score": -8.1705,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 62,
+    "score": -3.814,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 63,
+    "score": -18.3221,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 64,
+    "score": -3.4489,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 65,
+    "score": -15.2311,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 66,
+    "score": -5.4622,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 67,
+    "score": -0.2384,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 68,
+    "score": -19.6134,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 69,
+    "score": -4.7786,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 70,
+    "score": -1.4137,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 71,
+    "score": -0.4672,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 72,
+    "score": -0.262,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 73,
+    "score": -0.3834,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 74,
+    "score": -0.1443,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 75,
+    "score": 0.6432,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 76,
+    "score": 2.1086,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 77,
+    "score": 2.2236,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 78,
+    "score": -0.3001,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 79,
+    "score": -0.1295,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "MetricX-24-Hybrid-QE",
+    "segment_id": 80,
+    "score": -0.2061,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 41,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 42,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 43,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 44,
+    "score": 0,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 45,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 46,
+    "score": 0,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 47,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 48,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 49,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 50,
+    "score": 50,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 51,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 52,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 53,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 54,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 55,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 56,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 57,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 58,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 59,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 60,
+    "score": 0,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 61,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 62,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 63,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 64,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 65,
+    "score": 50,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 66,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 67,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 68,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 69,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 70,
+    "score": 0,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 71,
+    "score": 100,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 72,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 73,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 74,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 75,
+    "score": 100,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 76,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 77,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 78,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 79,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "GEMBA-ESA",
+    "segment_id": 80,
+    "score": 0,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 41,
+    "score": -0.0004,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 42,
+    "score": 0.1203,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 43,
+    "score": -0.0027,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 44,
+    "score": 0.0508,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 45,
+    "score": -0.0147,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 46,
+    "score": 0.0034,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 47,
+    "score": 0.3504,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 48,
+    "score": 0.0097,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 49,
+    "score": 0.0131,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 50,
+    "score": 0.0473,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 51,
+    "score": 0.9951,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 52,
+    "score": 0.4315,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 53,
+    "score": 0.8807,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 54,
+    "score": 0.8553,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 55,
+    "score": 0.8855,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 56,
+    "score": 0.9315,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 57,
+    "score": 0.9053,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 58,
+    "score": 0.7273,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 59,
+    "score": 0.6235,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 60,
+    "score": 0.4581,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 61,
+    "score": 0.5711,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 62,
+    "score": 0.737,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 63,
+    "score": 0.4968,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 64,
+    "score": 0.9192,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 65,
+    "score": 0.4717,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 66,
+    "score": 0.5458,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 67,
+    "score": 1.0054,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 68,
+    "score": 0.8901,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 69,
+    "score": 0.6162,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 70,
+    "score": 0.9786,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 71,
+    "score": 0.9613,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 72,
+    "score": 0.9353,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 73,
+    "score": 0.9194,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 74,
+    "score": 0.9206,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 75,
+    "score": 0.9382,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 76,
+    "score": 0.9549,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 77,
+    "score": 0.8212,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 78,
+    "score": 0.7517,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 79,
+    "score": 0.969,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET",
+    "segment_id": 80,
+    "score": 0.9871,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 41,
+    "score": 0.0521,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 42,
+    "score": 0.1561,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 43,
+    "score": 0.0443,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 44,
+    "score": 0.1069,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 45,
+    "score": 0.0293,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 46,
+    "score": 0.0509,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 47,
+    "score": 0.3802,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 48,
+    "score": 0.0524,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 49,
+    "score": 0.061,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 50,
+    "score": 0.0932,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 51,
+    "score": 0.9747,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 52,
+    "score": 0.4515,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 53,
+    "score": 0.8659,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 54,
+    "score": 0.8398,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 55,
+    "score": 0.9173,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 56,
+    "score": 0.9071,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 57,
+    "score": 0.8745,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 58,
+    "score": 0.6605,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 59,
+    "score": 0.5974,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 60,
+    "score": 0.4596,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 61,
+    "score": 0.6036,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 62,
+    "score": 0.7139,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 63,
+    "score": 0.5658,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 64,
+    "score": 0.8824,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 65,
+    "score": 0.4974,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 66,
+    "score": 0.5812,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 67,
+    "score": 0.9916,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 68,
+    "score": 0.8927,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 69,
+    "score": 0.6476,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 70,
+    "score": 0.9569,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 71,
+    "score": 0.9417,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 72,
+    "score": 0.9231,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 73,
+    "score": 0.9107,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 74,
+    "score": 0.8961,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 75,
+    "score": 0.9076,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 76,
+    "score": 0.9244,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 77,
+    "score": 0.7941,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 78,
+    "score": 0.759,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 79,
+    "score": 0.9417,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "XCOMET-QE",
+    "segment_id": 80,
+    "score": 0.9569,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 41,
+    "score": 12.1615,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 42,
+    "score": 26.708,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 43,
+    "score": 10.7409,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 44,
+    "score": 13.9251,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 45,
+    "score": 22.0979,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 46,
+    "score": 12.4268,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 47,
+    "score": 8.9365,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 48,
+    "score": 24.0585,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 49,
+    "score": 27.9158,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 50,
+    "score": 19.1536,
+    "type": "empty|empty|r-sent"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 51,
+    "score": 20.9353,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 52,
+    "score": 7.305,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 53,
+    "score": 7.7703,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 54,
+    "score": 15.7389,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 55,
+    "score": 25.8133,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 56,
+    "score": 17.5544,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 57,
+    "score": 7.3457,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 58,
+    "score": 21.4555,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 59,
+    "score": 16.5457,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 60,
+    "score": 33.6237,
+    "type": "empty|empty|r-word"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 61,
+    "score": 31.4516,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 62,
+    "score": 28.397,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 63,
+    "score": 34.0537,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 64,
+    "score": 7.4364,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 65,
+    "score": 24.6034,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 66,
+    "score": 28.0061,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 67,
+    "score": 30.9687,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 68,
+    "score": 19.8315,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 69,
+    "score": 17.8313,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 70,
+    "score": 26.7059,
+    "type": "empty|empty|r-phrase"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 71,
+    "score": 32.3001,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 72,
+    "score": 52.1162,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 73,
+    "score": 46.9631,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 74,
+    "score": 53.0469,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 75,
+    "score": 58.2293,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 76,
+    "score": 33.3,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 77,
+    "score": 37.7011,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 78,
+    "score": 37.8658,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 79,
+    "score": 45.6841,
+    "type": "empty|empty|punct"
+  },
+  {
+    "metric": "damonmonli",
+    "segment_id": 80,
+    "score": 35.2494,
+    "type": "empty|empty|punct"
+  }
+]

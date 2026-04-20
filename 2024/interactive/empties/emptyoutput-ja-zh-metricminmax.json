@@ -1,0 +1,77 @@
+[
+{
+  "metric": "BLEURT-20",
+  "lower": -0.0533,
+  "upper": 1.0321
+},
+{
+  "metric": "COMET-22",
+  "lower": 0.1801,
+  "upper": 0.9932
+},
+{
+  "metric": "CometKiwi",
+  "lower": 0.1374,
+  "upper": 0.9251
+},
+{
+  "metric": "PrismRefMedium",
+  "lower": -6.9575,
+  "upper": -0.0400
+},
+{
+  "metric": "PrismRefSmall",
+  "lower": -6.8837,
+  "upper": -0.0551
+},
+{
+  "metric": "chrfS",
+  "lower": -0.0342,
+  "upper": 0.9375
+},
+{
+  "metric": "MEE4",
+  "lower": -0.0512,
+  "upper": 1.0000
+},
+{
+  "metric": "XLsimMqm",
+  "lower": 0.7001,
+  "upper": 1.0000
+},
+{
+  "metric": "metametrics_mt_mqm_hybrid",
+  "lower": 0.0824,
+  "upper": 1.4690
+},
+{
+  "metric": "MetricX-24-Hybrid",
+  "lower": -30.6504,
+  "upper": -0.1383
+},
+{
+  "metric": "MetricX-24-Hybrid-QE",
+  "lower": -26.4135,
+  "upper": -0.1967
+},
+{
+  "metric": "GEMBA-ESA",
+  "lower": 0,
+  "upper": 100
+},
+{
+  "metric": "XCOMET",
+  "lower": -0.0679,
+  "upper": 1.0279
+},
+{
+  "metric": "XCOMET-QE",
+  "lower": -0.0531,
+  "upper": 1.0186
+},
+{
+  "metric": "damonmonli",
+  "lower": -5.1955,
+  "upper": 64.2923
+}
+]
